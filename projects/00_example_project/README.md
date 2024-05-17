@@ -8,7 +8,6 @@
 5. Further Explanation
 6. Learning Objective
 7. Hints, tips and further readings
-8. Hand-in requirements
 
 ----------
 
@@ -110,5 +109,3 @@ After reading this information, here are some questions to think about before st
 - Do you understand the content of each milestone?
 - Are you curious about the project and what are you curious about?
 - Take the opportunity to focus on areas that you feel are still challenging to maximize your learning experience and strengthen OAs that you have not been able to deepen previously. You count on our guidance throughout this process, but especially, on the talent and empathy of all your teammates to further enrich this learning community! 🙌💛
-
-## 7. Hand-in requirements
