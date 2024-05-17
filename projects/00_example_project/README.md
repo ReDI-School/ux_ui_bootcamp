@@ -20,8 +20,8 @@ In this project, we will break the design process into phases, starting with exp
 
 
 General project objectives:
-1. We want you to focus on learning extensively and working effectively in a team.
-2. Implement all stages of the design process, adjusting activities according to the project context and available resources (time, users, etc.).
+1. We want you to focus on learning extensively and working effectively
+2. Implement all stages of the design process, adjusting activities according to the project context and available resources (time, etc.).
 3. Design a digital proposal that contributes to solving the aforementioned challenges.
 
 ![uxexplorar](https://github.com/ReDI-School/ux_ui_bootcamp/assets/51905839/a1b913c2-654b-4d2b-a818-0828fe3af222)
@@ -36,21 +36,23 @@ The project is divided into milestones, which are like kilometer markers on the 
 Completing the mandatory milestones is essential to consider the project completed; the other milestones are optional, as they are to deepen or explore other skills.
 During the different milestones, or at the close of the project, you must present documentation that demonstrates what you did in a tangible way and in compliance with the acceptance criteria, which exist so that you can self-validate if you really achieved the desired result.
 
-#### 1. Milestone: Project (mandatory)
+#### 1. Milestone: Project and Analysis (mandatory)
+
+##### 1. Part: Project
 Getting organized when the business does not make a specific request can be very challenging, but it is still key to making the most of our time.
 
 Acceptance Criteria:
 - Summary of the overall scope of the project, detailing possible deliverables and a work plan listing tasks to be performed.
 - Not all the time is necessary to invest the same effort in each stage of the design process. Use as a guide the OAs you want to strengthen during the project to define the time you will spend in each stage. For example, if you want to strengthen your prototyping and UI design skills, plan a brief analysis and a strong focus on visual exploration from the beginning.
 
-#### 2. Milestone: Analysis of existing (mandatory)
+##### 2. Part: Analysis of existing
 How to understand the users of products that don't exist yet? By analyzing competitors' products or other tools they use to solve their needs.
 
 Acceptance criteria:
 - Benchmark dashboard analysis, where you identify the key functionalities of this type of digital product.
 - Desktop research on user pains of the category you have chosen.
   
-#### 3. Milestone: Design proposal (mandatory)
+#### 2. Milestone: Design proposal (mandatory)
 You must propose a solution that can be designed in the project timeframe, ensuring that it solves the priority problems.
 
 Acceptance criteria:
@@ -62,21 +64,33 @@ Acceptance criteria:
 - Basic prototype* focusing on information architecture
 *A basic prototype is one that can be navigated between screens and includes the most relevant content and functionalities, without including visual details such as color, typography, etc.
   
-#### 4. Milestone: Prototyping (BONUS)
+#### 3. Milestone: Prototyping (mandatory)
 Once you have the structure of your proposal clear, it is time to integrate the visual elements necessary to enhance a good user experience.
 
 Acceptance criteria:
 - Moodboard with visual references that work as inspiration for your UI.
-- Visual guide with specifications of the graphic elements: color palette, fonts, layout and spacing between elements (internal margins: padding / external margins: margin).
-- High fidelity navigable prototype with basic interactions (change screen, back, etc.). Must include a web version and a mobile or tablet version.
+- Visual guide with specifications of the graphic elements: color palette, fonts, layout, and spacing between elements (internal margins: padding / external margins: margin).
+- High fidelity navigable prototype with basic interactions (change screen, back, etc.). It must include a web version and a mobile or tablet version.
 - Explanation where you demonstrate how you applied the basic principles of accessibility in your proposal (perceptibility and operability).
 - Component library (UI Kit) built under Atomic Design principles.
-  
+
+
+#### 4. Milestone: Validation (BONUS)
+It is vital that we validate our proposals, especially with products built from scratch. To do this, you need to plan your non-moderated usability tests so that you get user feedback to support the design decisions you made experimentally.
+
+Acceptance criteria:
+- Document detailing the research plan, including research objectives, target user profile, and sample size.
+- Guideline of tasks to be performed by users in usability testing and evidence that you validated these guidelines with a person outside the team (ideally a user).
+- Non-moderated usability testing with at least 5 people (guerrilla or potential users)
+- Identify error rates and other relevant design metrics in usability testing.
+- Synthesis of results, showing identified patterns, observations, and findings (if any).
+
+In this project, this will be the time when you involve users directly. Make sure you follow the best practices for usability testing.
+
 ## 4. Further Explanation
 - Interviews and surveys are not allowed, so that you dare to experiment with the design process. The usability tests must be non-moderated.
-- You will work in pairs (2 students), we suggest you choose a name that represents you and makes it easy to identify your team. Don't worry, you will receive guidance to form your team.
-- Each team should recruit their own users for the tests. Try to make them potential users and ideally test with 5 people, otherwise the results may be biased or insufficient.
-- Each team should present its own solution, prototypes and tests. We know that some solutions will be similar since they solve the same challenge, but our way of thinking and solving is unique, dare to explore beyond the conventional.
+- You recruit users for the tests. Try to make them potential users and ideally test with 5 people, otherwise the results may be biased or insufficient.
+- You should present your own solution, prototypes and tests. We know that some solutions will be similar since they solve the same challenge, but our way of thinking and solving is unique, dare to explore beyond the conventional.
 
 ## 5. Learning Objective
 - Being a short project, it is key to define the scope and work plan at a general level, with detailed stages, deliverables, times and activities.
