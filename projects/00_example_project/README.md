@@ -1,4 +1,4 @@
-# Project Name
+# UXExplorer Project
 
 ## Index
 1. Introduction
