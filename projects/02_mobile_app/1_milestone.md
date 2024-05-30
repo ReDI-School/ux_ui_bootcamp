@@ -28,10 +28,11 @@ To document your findings you can either copy/paste on another document what you
 
 3. At the end of this deliverable, you should have clear what are the behaviour/attitudes, needs or goals and frustrations or paint points but, you may also be able to uncover emotions.
 
+**Resources:** [Empathy Map in Gitbook](https://redi-school-1.gitbook.io/ux-ui-bootcamp/empathy-map)
 
 ## Task 2 - Fill out the Task Analysis Template and create the User Flows
 
-**1. Go through the below template, it’s a sort of Task Analysis synthesis, and fill it up, the data can all be retrieved from the dummy user interviews answers:**
+**1. Go through the below template, it’s a sort of Task Analysis synthesis, and fill it up, the data can all be retrieved from the [dummy user interviews answers](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/02_mobile_app/interviews.md):**
 
 Task Analysis Synthesis Template\
 Initial Interest and Motivation\
@@ -129,3 +130,5 @@ Suggestions:
 - As an entry point for your “User Flow” you can use the splash screen, or skip it and use the sign up/login as entry point.
 - What comes after the entry point, is the path that the user needs to take in order to achieve its goal, the task that he has to perform which is made of several steps. It can be a straight happy path. It can be, or a more elaborate path if, for example, you want to include more than one goal (registration, changing meditation, adding meditation and so on. If you opt for a “User Flow” that displays different paths and so different tasks, remember that when you will have to create the wireframes out of it, specifically for the prototyping stage, you may open to break it down so as to have separate tasks.
 - To create your “User Flows” you can choose between Figma, FigmaJam or Miro or well, even paper and pencil if you have no other means.
+
+**Resources:** [Task Analysis and User Flows in Gitbook](https://redi-school-1.gitbook.io/ux-ui-bootcamp/task-analysis-and-user-flows)
