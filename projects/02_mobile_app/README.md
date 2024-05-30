@@ -15,7 +15,9 @@
 Through this project, we aim to explore the nuances of designing a mobile application by focusing on some steps of user experience design—from a touch of qualitative analysis to high-fidelity wireframes. 
 This exercise project focuses on analysis, the importance of understanding user goals and needs, translating them into intuitive design solutions, and iteratively refining the product based on user feedback.
 
-<img width="391" alt="Meditation Image" src="https://github.com/ReDI-School/ux_ui_bootcamp/assets/51905839/14fd6950-35a2-4497-97c6-300fa95dc53e">
+<img width="920" alt="Meditation Image" src="https://github.com/ReDI-School/ux_ui_bootcamp/assets/51905839/bd3a7414-a584-4065-9637-23b82736e53d">
+
+
 
 ## 2. Project Summary
 You will be put in the following scenario: Thomas is a young entrepreneur who is in a hurry to go live as quickly as possible with his meditation mobile app project. He has already conducted market research, competitive analysis and qualitative research and he decided to proceed with the creation of a meditation app. Unfortunately, your previous colleague left the project without completing the qualitative research, in fact he didn’t do the qualitative analysis and now you have to work with what he left and the requirements set by the founder, which are:
