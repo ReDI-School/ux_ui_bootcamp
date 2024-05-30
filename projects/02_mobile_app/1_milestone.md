@@ -19,13 +19,11 @@
 1. Go through the interview answers and extract informations that reflect:
   - **Behaviours and Attitudes:** Pay attention to behaviours and attitudes that align with your research objectives.
   - **Needs or Goals:** Identify any needs or goals your participants express. For instance, a user might say,
-  - **Frustrations:** Document any frustrations participants voice. These frustrations can help you refine your project and improve user satisfaction. 
+  - **Frustrations:** Document any frustrations participants voice. These frustrations can help you refine your project and improve user satisfaction.
 
 To document your findings you can either copy/paste on another document what you consider meaningful to determine the needs and goals or eventual paint points to leverage, or you can just highlight the important parts.
 
-2. Sort out your data by answering the 7 questions of the Empathy Map canvas. You can just write the question on a paper, google sheet or even better by creating a free account on Miro or by using FigJam and recreate the canvas template.
-
-Keep in mind that this is an exercise with dummy content for you to practise, so if your data analysis does not allow you to answer all the questions, it’s totally fine.
+2. Sort out your data by answering the 7 questions of the Empathy Map canvas. You can just write the question on a paper, google sheet or even better by creating a free account on Miro or by using FigJam and recreate the canvas template. Keep in mind that this is an exercise with dummy content for you to practise, so if your data analysis does not allow you to answer all the questions, it’s totally fine.
 
 3. At the end of this deliverable, you should have clear what are the behaviour/attitudes, needs or goals and frustrations or paint points but, you may also be able to uncover emotions.
 
