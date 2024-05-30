@@ -46,7 +46,7 @@ Ultimately they will propose task analysis steps and they will create a user flo
 - UX Designers do not work alone. If possible, collaborate with peers to get feedback on your work. Different perspectives can help identify gaps or new insights.
 
 **Deliverables:**
-1. Empathy Map
+1. Analysis, Empathy Map
 2. Task Analysis Template & User Flows
 
 **Milestone Detail: [Milestone 1](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/02_mobile_app/1_milestone.md)** 
