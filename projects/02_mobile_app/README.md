@@ -47,7 +47,7 @@ Ultimately they will propose task analysis steps and they will create a user flo
 
 **Deliverables:**
 1. Empathy Map
-2. Task Analysis & User Flows
+2. Task Analysis Template & User Flows
 
 **Milestone Detail: [Milestone 1](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/02_mobile_app/1_milestone.md)** 
 
