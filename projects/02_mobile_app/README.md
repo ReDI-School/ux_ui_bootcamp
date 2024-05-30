@@ -18,7 +18,6 @@ This exercise project focuses on analysis, the importance of understanding user 
 <img width="920" alt="meditation image" src="https://github.com/ReDI-School/ux_ui_bootcamp/assets/51905839/03b33fd3-4ecc-4a0b-af6e-95655190a07f">
 
 
-
 ## 2. Project Summary
 You will be put in the following scenario: Thomas is a young entrepreneur who is in a hurry to go live as quickly as possible with his meditation mobile app project. He has already conducted market research, competitive analysis and qualitative research and he decided to proceed with the creation of a meditation app. Unfortunately, your previous colleague left the project without completing the qualitative research, in fact he didn’t do the qualitative analysis and now you have to work with what he left and the requirements set by the founder, which are:
 
@@ -52,7 +51,6 @@ Ultimately they will propose task analysis steps and they will create a user flo
 Optionally, they can conduct a card sorting exercise using a tool like Optimal Workshop to gather user insights. For wireframes, students will sketch key screens on paper, annotate these sketches with design decisions, and then create mid-fidelity wireframes in Figma. 
 The screens will include the splash screen, onboarding screens, sign-up/login page, profile area, and user flow reflecting a key user goal. Finally, they will share their wireframes for feedback and make necessary adjustments.
 
-
 **What you learn:** Through this process, students will learn the importance of Information Architecture in enhancing user experience and the different types of IA structures such as hierarchical, sequential, and flat structures. 
 They will gain practical skills in conducting organising information, and creating Site Maps. Additionally, they will understand the differences between low-fidelity, mid-fidelity, and high-fidelity wireframes, and how to focus on user experience elements like navigation, content organisation, and interaction flow. 
 By using Figma to create wireframes, students will develop practical design skills, and by conducting card sorting (optional), they will gain insights into user preferences to create more intuitive designs.
@@ -62,7 +60,7 @@ By using Figma to create wireframes, students will develop practical design skil
 - When creating a site map, focus on clarity and logical organization.
 - UX Designers do not work alone. If possible, collaborate with peers to get feedback on your work. Different perspectives can help identify gaps or new insights.
 
-#### 3. Milestone - Prototyping, Testing and Refining
+### 3. Milestone - Prototyping, Testing and Refining
 **What you do:** Students will first convert their mid-fidelity wireframes into clickable prototypes using Figma, following the user flows previously established. They can refer to Figma tutorials for assistance in prototyping. 
 Next, students will engage in usability testing and refinement. They will decide on tasks to test, prepare test plans and scripts, and conduct three rounds of usability tests with different users, focusing on tasks related to online meditation. During the tests, they will take notes and prepare a Usability Analysis Report using Nielsen error metrics. 
 After completing the tests, students will refine their mid-fidelity wireframes based on their findings and then create high-fidelity wireframes, incorporating elements like splash screens, onboarding flows, sign-up/login screens, profile areas, and features tested during usability analysis.
@@ -79,8 +77,12 @@ Additionally, students will learn the importance of iterative design processes, 
 
 ### 4. Bonus Milestone
 
+
 ### 5. Further Explanation
+
 
 ### 6. Learning Objective
 
+
 ### 7. Hints, tips and further readings
+
