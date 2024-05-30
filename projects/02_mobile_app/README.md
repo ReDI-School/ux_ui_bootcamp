@@ -49,7 +49,7 @@ Ultimately they will propose task analysis steps and they will create a user flo
 1. Empathy Map
 2. Task Analysis & User Flows
 
-**Milestone Detail: [Link to Milestone 1](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/02_mobile_app/1_milestone.md)** 
+**Milestone Detail: [Milestone 1](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/02_mobile_app/1_milestone.md)** 
 
 ### 2. Milestone - Information Architecture and Mid-Wireframes
 **What you do:** Students will begin by reviewing their previously developed user flow to ensure the user goals are clear. They will then analyze competitors like Headspace, Calm, and Insight Timer to understand industry standards. Using tools such as pencil and paper, FigJam, Figma, or Miro, students will create a Site Map by conducting a content audit, grouping related content, arranging these groups hierarchically, and mapping out links between sections. 
