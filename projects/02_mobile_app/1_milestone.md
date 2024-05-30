@@ -31,91 +31,91 @@ To document your findings you can either copy/paste on another document what you
 
 ## Task 2 - Fill out the Task Analysis Template and create the User Flows
 
-**1. Go through the below template, it’s a sort of Task Analysis synthesis, and fill it up, the data can all be retrieved from the dummy user interviews answers: **
+**1. Go through the below template, it’s a sort of Task Analysis synthesis, and fill it up, the data can all be retrieved from the dummy user interviews answers:**
 
-Task Analysis Synthesis Template
-Initial Interest and Motivation
-Trigger Event
-1…
-2…
-3…
-Goals
-1…
-2…
-3…
+Task Analysis Synthesis Template\
+Initial Interest and Motivation\
+Trigger Event\
+1…\
+2…\
+3…\
+Goals\
+1…\
+2…\
+3…\
 
-Incorporation into Daily Routine
-Daily Routine Integration
-1…
-2…
+Incorporation into Daily Routine\
+Daily Routine Integration\
+1…\
+2…\
 3…
-Goals
-1…
-2…
-
-
-Exploration of Meditation Apps
-Apps Tried
-1…
-2…
-3…
-4…
-Features Evaluated
-1…
-2…
-3…
-4…
+Goals\
+1…\
+2…\
 
 
-Engagement with Guided Meditation Content
-Preferred Format
-1…
-2…
-Goals
-1…
-2…
-3…
+Exploration of Meditation Apps\
+Apps Tried\
+1…\
+2…\
+3…\
+4…\
+Features Evaluated\
+1…\
+2…\
+3…\
+4…\
 
 
-Experience and Challenges with Regular Meditation
-Positive Outcomes
-1…
-2…
-3…
-Challenges
-1…
-2…
-3…
+Engagement with Guided Meditation Content\
+Preferred Format\
+1…\
+2…\
+Goals\
+1…\
+2…\
+3…\
+
+
+Experience and Challenges with Regular Meditation\
+Positive Outcomes\
+1…\
+2…\
+3…\
+Challenges\
+1…\
+2…\
+3…\
 
 Now, even if we didn’t conduct a “Task Analysis” and the only research method of it we had, were these interviews that Thomas our beloved founder gave to you, we can do a bit of reverse engineering and try to propose the task analysis steps that would have emerged through a complete “Task Analysis”.
 
 In the following template, you already have the main name of some of the tasks individuated through the interviews, try to fill up the template, you have the data, are all available in the user interview answers
 
 **2. Template - Proposed Task Analysis Steps**
-Task 1: Starting a Meditation Practice
-Step 1…
-Step 2..
-Step 3..
+Task 1: Starting a Meditation Practice\
+Step 1…\
+Step 2..\
+Step 3..\
 
-Task 2: Incorporating Meditation into Daily Routine
-Step 1…
-Step 2…
-Step 3…
+Task 2: Incorporating Meditation into Daily Routine\
+Step 1…\
+Step 2…\
+Step 3…\
 
-Task 3: Using Meditation Apps
-Step 1…
-Step 2…
-Step 3…
+Task 3: Using Meditation Apps\
+Step 1…\
+Step 2…\
+Step 3…\
 
-Task 4: Engaging with Guided Meditation
-Step 1…
-Step 2…
-Step 3…
+Task 4: Engaging with Guided Meditation\
+Step 1…\
+Step 2…\
+Step 3…\
 
-Task 5: Maintaining a Regular Meditation Practice
-Step 1…
-Step 2…
-Step 3…
+Task 5: Maintaining a Regular Meditation Practice\
+Step 1…\
+Step 2…\
+Step 3…\
 
 Bear in mind that both templates are just templates, you may be able to spot something extra, go for it, in case your teacher will evaluate it.
 
