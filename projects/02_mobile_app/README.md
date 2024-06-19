@@ -65,6 +65,13 @@ By using Figma to create wireframes, students will develop practical design skil
 - When creating a site map, focus on clarity and logical organization.
 - UX Designers do not work alone. If possible, collaborate with peers to get feedback on your work. Different perspectives can help identify gaps or new insights.
 
+**Deliverables:**
+- Site Map in Figjam 
+- Mid-Fidelity Wireframes
+
+**Milestone Detail: [Milestone 2](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/02_mobile_app/2_milestone.md)** 
+
+
 ### 3. Milestone - Prototyping, Testing and Refining
 **What you do:** Students will first convert their mid-fidelity wireframes into clickable prototypes using Figma, following the user flows previously established. They can refer to Figma tutorials for assistance in prototyping. 
 Next, students will engage in usability testing and refinement. They will decide on tasks to test, prepare test plans and scripts, and conduct three rounds of usability tests with different users, focusing on tasks related to online meditation. During the tests, they will take notes and prepare a Usability Analysis Report using Nielsen error metrics. 
