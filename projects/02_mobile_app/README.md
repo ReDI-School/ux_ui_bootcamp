@@ -3,11 +3,9 @@
 ## Index
 1. Introduction
 2. Project Summary
-3. Milestones & Acceptance Criteria
+3. Milestones & Deliverables
 4. Bonus Milestone
-5. Further Explanation
-6. Learning Objective
-7. Hints, tips and further readings
+5. Learning Objective
 
 ----------
 
@@ -30,7 +28,7 @@ You will be put in the following scenario: Thomas is a young entrepreneur who is
 This project will be broken down into several phases. Initially, you will focus on data analysis to inform your design decisions. Then, you will create an empathy map, complete a task analysis template placed there to speed up your work, and develop a user flow. 
 Following this, you will create mid-fidelity wireframes and a prototype, which will be evaluated through usability testing. The final step will be to refine your design into high-fidelity wireframes.
 
-## 3. Milestones & Acceptance Criteria
+## 3. Milestones & Deliverables
 
 ### 1. Milestone - Analysis, Empathy Map and User flows
 **What you will do:** Students will analyse the answer of the user interviews and extract meaningful insights related to behaviours, attitudes, needs, goals, and frustrations. They will then Identify and highlight key phrases or sentences that indicate user motivations, preferences, and challenges
@@ -90,11 +88,4 @@ Additionally, students will learn the importance of iterative design processes, 
 ### 4. Bonus Milestone
 
 
-### 5. Further Explanation
-
-
-### 6. Learning Objective
-
-
-### 7. Hints, tips and further readings
-
+### 5. Learning Objective
