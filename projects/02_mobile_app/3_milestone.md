@@ -45,6 +45,7 @@ Instructions:
     - Severity: The Nielsen value
     - Recommendation: How to solve the problem
 <img width="612" alt="Task - Observation - Severity - Recommendation Overview" src="https://github.com/ReDI-School/ux_ui_bootcamp/assets/51905839/808ba549-1a7a-4f99-b999-207ddb3dde8f">
+
 4. Refine Mid-fidelity Wireframes: After you have completed the “Usability Test”, refine your Mid fidelity Wireframes (do not delete the previous version)
 5. Create the High Fidelity Wireframes including:
   - The splash screen
