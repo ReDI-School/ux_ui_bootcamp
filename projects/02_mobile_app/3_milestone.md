@@ -1,20 +1,22 @@
 # 3. Milestone - Prototyping, Testing and Refining
 
-**What you do:** Students will first convert their mid-fidelity wireframes into clickable prototypes using Figma, following the user flows previously established. They can refer to Figma tutorials for assistance in prototyping. Next, students will engage in usability testing and refinement. They will decide on tasks to test, prepare test plans and scripts, and conduct three rounds of usability tests with different users, focusing on tasks related to online meditation. During the tests, they will take notes and prepare a Usability Analysis Report using Nielsen error metrics. After completing the tests, students will refine their mid-fidelity wireframes based on their findings and then create high-fidelity wireframes, incorporating elements like splash screens, onboarding flows, sign-up/login screens, profile areas, and features tested during usability analysis.
+### What you do:
+Students will first convert their mid-fidelity wireframes into clickable prototypes using Figma, following the user flows previously established. They can refer to Figma tutorials for assistance in prototyping. Next, students will engage in usability testing and refinement. They will decide on tasks to test, prepare test plans and scripts, and conduct three rounds of usability tests with different users, focusing on tasks related to online meditation. During the tests, they will take notes and prepare a Usability Analysis Report using Nielsen error metrics. After completing the tests, students will refine their mid-fidelity wireframes based on their findings and then create high-fidelity wireframes, incorporating elements like splash screens, onboarding flows, sign-up/login screens, profile areas, and features tested during usability analysis.
 
-**What you learn:** Students will learn how to translate mid-fidelity wireframes into interactive prototypes using Figma, gaining proficiency in simulating user interactions and flows. Through usability testing, students will learn how to develop test plans, scripts, and conduct sessions to gather valuable feedback from users. They will also gain insights into analyzing usability data and prioritizing design improvements based on user feedback. Additionally, students will learn the importance of iterative design processes, refining their prototypes based on usability test results to enhance the overall user experience. Overall, milestone three equips students with practical skills in prototyping, usability testing, and iterative design, essential for creating user-centered digital products.
+### What you learn:
+Students will learn how to translate mid-fidelity wireframes into interactive prototypes using Figma, gaining proficiency in simulating user interactions and flows. Through usability testing, students will learn how to develop test plans, scripts, and conduct sessions to gather valuable feedback from users. They will also gain insights into analyzing usability data and prioritizing design improvements based on user feedback. Additionally, students will learn the importance of iterative design processes, refining their prototypes based on usability test results to enhance the overall user experience. Overall, milestone three equips students with practical skills in prototyping, usability testing, and iterative design, essential for creating user-centered digital products.
 
-**Tips:**
+### Tips:
 - Keep the user at the center of your design process. Consider their needs, preferences, and pain points when creating prototypes and conducting usability testing.
 - Clearly communicate your design ideas and concepts through prototypes
 - Treat milestone three as an opportunity for continuous learning and improvement. Reflect on your experiences, learn from mistakes, and seek feedback from peers and instructors to enhance your prototyping and usability testing skills.
 - UX Designers do not work alone. If possible, collaborate with peers to get feedback on your work. Different perspectives can help identify gaps or new insights.
 
-**Deliverables:**
+### Deliverables:
 1. Clickable Prototype
 2. Usability Testing and Refinement 
 
-## Task 1 - Prototyping
+### Task 1 - Prototyping
 Instructions:
 1. Open the Figma file where you have your mid-fidelity wireframes. They should follow the user flow or the user flows that you have previously created. 
 2. Turn your mid-fidelity wireframes into clickable prototypes. If you need help, you can rely on the Figma tutorial you have followed, here is the link to the prototyping chapter:
@@ -23,7 +25,7 @@ Instructions:
     - https://www.youtube.com/watch?v=-sAAa-CCOcg
     - https://www.youtube.com/watch?v=v1UKB-0EUhQ
 
-## Task 2 - Usability Testing and Refining
+### Task 2 - Usability Testing and Refining
 Instructions:
 1. Prepare Usability Testing ([Review How to perform Usability Testing](https://redi-school-1.gitbook.io/ux-ui-bootcamp/usability-test))
   - Decide the tasks to test
@@ -51,7 +53,8 @@ Instructions:
   - Profile area
   - Effortless Exploration (the task/s you have picked from the data analysis, or in other terms the one you have usability tested.
 
-**Resources:**
+
+### Resources:
 - [Prototyping](https://redi-school-1.gitbook.io/ux-ui-bootcamp/crafting/prototyping)
 - [Usability Testing](https://redi-school-1.gitbook.io/ux-ui-bootcamp/usability-test)
 - [Wireframes](https://redi-school-1.gitbook.io/ux-ui-bootcamp/crafting/wireframes)
