@@ -10,6 +10,8 @@ Our learning approach builds on learning by doing. Students work on three hands-
 ## Evaluation
 During the course of each project, coaches will individually monitor your work. Each week students finish one milestone. They receive feedback and support by Coaches in the Monday Support Session. However, the milestones are not evaluated. 
 
+**COMMENT** ....
+
 Students hand in their project at the end of each project cycle. Relevant for the evaluation are the deliverables per milestone. Remember that the learning objectives are more important than the completeness of your project. 
 
 At the end of your project, you present your work to the coaches and will receive feedback. Before this session, you will need to reflect and self-evaluate against the learning objectives. In this feedback session, you will validate your self-evaluation with your coaches. If some objectives have not been met, the coaches may recommend to proceed to achieve the missing learning objectives, which could involve continuing with the current project (more time) or doing a complementary project. Remember that everyone learns at their own pace, and it is important to gradually acquire the skills associated with the learning objectives. Your coaches and peers are there to support you.
