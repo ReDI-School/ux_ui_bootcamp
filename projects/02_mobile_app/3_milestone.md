@@ -36,11 +36,12 @@ Instructions:
   - As we are in a training setting and you have obvious limitations, we recommend you to do at least 1 round with at least 3 users. It is fine if they are target users, you are simply practising.
 4. Take notes during the usability test session
 5. Prepare the Usability Analysis Report and use the Nielsen error metrics Then you can organize your findings in this way:
-<img width="612" alt="Task - Observation - Severity - Recommendation Overview" src="https://github.com/ReDI-School/ux_ui_bootcamp/assets/51905839/808ba549-1a7a-4f99-b999-207ddb3dde8f">
-  - Task: The number of the task you were testing (registration, changing meditation, selecting meditation etc)
+  - Task: The number of the task you were testing (registration, changing meditation, selecting meditation etc) 
   - Observation: What the user said
   - Severity: The Nielsen value
   - Recommendation: How to solve the problem
+<img width="612" alt="Task - Observation - Severity - Recommendation Overview" src="https://github.com/ReDI-School/ux_ui_bootcamp/assets/51905839/808ba549-1a7a-4f99-b999-207ddb3dde8f">
+
 6. If you have still doubt about how a Usability Testing kick off, here you have an example of a Usability Testing in person: https://www.youtube.com/watch?v=bcfqmx2hnUQ
   - Here instead the example of a Usability Testing on the mobile app of Ryanair with also some pre-test question used to understand the interviewee and set the context: https://www.youtube.com/watch?v=O430PfvDkEA
 7. Once you have completed the “Usability Test”, refine your Mid fidelity Wireframes (do not delete the previous version)
