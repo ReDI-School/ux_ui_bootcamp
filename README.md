@@ -18,6 +18,8 @@ At the end of your project, you present your work to the coaches and will receiv
 ## Contributors
 A big thank you to everyone who is contributing to this repository. 
 
+_We will gradually add your preferred profile (LinkedIn, Github, ...) and your form of contribution to this section._
+
 
 ## Licencia & Copyright
 All material from this repo is from (c) ReDI School of Digital Integration. 
