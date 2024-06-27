@@ -36,6 +36,6 @@ The bootcamp fully focuses on hands-on work through projects. Students work on t
 
 
 # How to contribute to the material
-1. Gitbook: [How to contribute to Gitbook](https://github.com/ReDI-School/fullstack_bootcamp/blob/main/volunteers/contribute_to_gitbook.md)
-2. Github: [How to contribute to Github](https://github.com/ReDI-School/fullstack_bootcamp/blob/main/volunteers/contribute_to_github.md)
-3. Slides: [How to update the Slides](https://github.com/ReDI-School/fullstack_bootcamp/blob/main/volunteers/update_slides.md)
+1. Gitbook: [How to contribute to Gitbook](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/volunteers/contribute_to_gitbook.md)
+2. Github: [How to contribute to Github](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/volunteers/contribute_to_github.md)
+3. Slides: [How to update the Slides](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/volunteers/update_slides.md)
