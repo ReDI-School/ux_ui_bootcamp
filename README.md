@@ -22,14 +22,15 @@ ReDI's UX/UI Bootcamp curriculum consists of 4 projects spread over 18 weeks. In
 
 
 ## Learning goals
-
 If you follow the program, you'll learn the following skills:
-
-- Ability to `build a basic modern web application` (using NodeJS and React)
-- Get experience with `pair programming`
-- Knowing how to `learn and self-teach new programming concepts`
-- How to use `third-party libraries/APIs`
-- Have a basic understanding of what it means to work on digital products
+- Design tools proficiency `Figma`, `FIGJAM`, `Miro`
+- `User research` and `persona creation`
+- `Wireframing` and `prototyping`
+- `Interaction design` and `usability testing`
+- Visual design principles and accessibility
+- Communication: Ability to articulate design decisions
+- Collaboration: Give and receive feedback. Work with peers
+- Problem-solving: Identifying user pain points and devising creative solutions. Commitment to crafting user-friendly designs that meet project requirements.
 
 
 ## 1. Project: User Research
@@ -54,19 +55,11 @@ Start with competitive analysis, then move on to designing wireframes and protot
 
 **Learning Goals:**
 By the end of this module, you should have a familiarity with and a basic understanding of the following:
-
-- `Variables` and `Types`: Declaring and using variables, understanding data types.
-- `Operators`, `Conditionals` & `Loops`: Basic operations, control flow with if/else and loops.
-- `Arrays` and `Functions`: Working with arrays, defining and invoking functions.
-- `Scope`: Understanding variable scope.
-- `Callbacks`: Handling asynchronous operations with callbacks.
-- `Event handling`: Managing user interactions.
-- `DOM Manipulation`: Interacting with the Document Object Model.
-- `Dynamic rendering`: Updating the UI dynamically.
-- `Async coding` and Promises: Managing asynchronous operations with promises.
-- `JSON` and `HTTP`: Working with JSON data and HTTP requests.
-- `CRUD` operations: Create, Read, Update, Delete operations in web development.
-- `Async/await`: Simplifying asynchronous code with async/await.
+- `Prototyping` mobile applications
+- `Wireframing` low and mid-fidelity
+- `Usability Testing`
+- `Empathy Map`
+- `Task Analysis` and `User flows`
 
 **Link to Project: [02_mobile_application](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/02_mobile_app/README.md)**
 
@@ -78,12 +71,10 @@ By the end of this module, you should have a familiarity with and a basic unders
 From initial user research to the final presentation, develop your web application with thorough wireframing, prototyping, and usability testing, ensuring every element meets user needs.
 
 **Learning Goals:**
-By the end of this module, you should have a familiarity with and basic understanding of the following:
-- `Single Page Application`: Understanding SPA architecture.
-- React from zero with `Vite`: Setting up a React project using Vite.
-- Thinking in `React`: Core principles and concepts.
-- `React Components`: Creating and using components.
-- `Internal state`: Managing component state.
+By the end of this module, you should have a familiarity with and a basic understanding of the following:
+- `Prototyping` web applications
+- `Wireframing` low, mid and high fidelity
+- `Usability Testing`
 
 **Link to Project: [03_web_application](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/03_web_application/README.md)**
 
