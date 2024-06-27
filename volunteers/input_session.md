@@ -22,11 +22,11 @@ The session owner decides how to run the input session. We suggest the following
 ## Material to teach
 The focus of the Input Session is to introduce the students to the milestone of the week and the relevant concepts to work on the milestone. To introduce the relevant concepts, there is the following material:
 1. Slides - There is a slide deck to help you run the session and introduce the concepts. Feel free to adapt it! (Slides in Google Drive, Link is pinned in Slack)
-2. [Gitbook](https://redi-school-1.gitbook.io/fullstack/) - The Gitbook is our Knowledge base and helps the students to study the relevant concepts. It can also help the teachers to recap the relevant concepts. 
-3. [Github](https://github.com/ReDI-School/fullstack_bootcamp/tree/main) - The projects and weekly milestones are in Github. 
+2. [Gitbook](https://redi-school-1.gitbook.io/ux-ui-bootcamp/) - The Gitbook is our Knowledge base and helps the students to study the relevant concepts. It can also help the teachers to recap the relevant concepts. 
+3. [Github](https://github.com/ReDI-School/ux_ui_bootcamp/tree/main/projects) - The projects and weekly milestones are in Github. 
 
 
 ## How to run the Input Session 
-1. Role of [Session Owner](https://github.com/ReDI-School/fullstack_bootcamp/blob/main/volunteers/session_owner.md)
-2. Role of [Teaching Assistant](https://github.com/ReDI-School/fullstack_bootcamp/blob/main/volunteers/teaching_assistant.md)
+1. Role of [Session Owner](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/volunteers/session_owner.md)
+2. Role of [Teaching Assistant](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/volunteers/teaching_assistant.md)
 
