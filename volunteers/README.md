@@ -2,7 +2,7 @@
 Welcome to ReDI School! We really appreciate that you are part of our community. In this repo, you'll find an overview of the different volunteering positions. By volunteering, you contribute to our main goal: help our students gain the necessary skills to find a job in tech. ReDI School has now helped over 450 students find work. This is only possible with the support of our volunteers <3
 
 # Curriculum
-The curriculum is meant to prepare the students for a front end internship and help them grow into junior full stack or front end positions. 
+The curriculum is meant to prepare the students for a UX/UI internship and help them become junior UI or UX designers.
 
 <img width="969" alt="image" src="https://github.com/ReDI-School/fullstack_bootcamp/assets/51905839/21865da5-1bf0-4bfa-909d-99ae1672c00d">
 
@@ -13,20 +13,20 @@ The bootcamp fully focuses on hands-on work through projects. Students work on t
 
 | Session           | Day                                     | Purpose   | Roles          |
 | ---------| --------------------------------------|-----------|---------------|
-| [Support Session](https://github.com/ReDI-School/fullstack_bootcamp/blob/main/volunteers/support_session.md)  | Monday |  Students present milestone, get support and feedback | Coach |
-| [Input Session](https://github.com/ReDI-School/fullstack_bootcamp/blob/main/volunteers/input_session.md)  | Tuesday | The class is taught in pair, with one person assigned as a session owner (the lecturer) and one as a teaching assistant.  The class introduces the students to the new topic of the week through theory and practice. At the end of class, the project milestone for the week is assigned. | Session Owner, Session Assistant |
-| [Q&A Support](https://github.com/ReDI-School/fullstack_bootcamp/blob/main/volunteers/qa_session.md)  | Thursday |  In this session, the Q&A guide answers questions from the students regarding the milestone and topic of the week. One teacher collects all questions before the session and answers them in a live session. | Q&A Guide |
-| [Peer to Peer](https://github.com/ReDI-School/fullstack_bootcamp/blob/main/volunteers/peer_to_peer.md)  | Friday |  Students drive projects together through pair programming. They meet in one Zoom call, move into breakout rooms in groups of 3-4, and rotate in pair programming. | _no support needed_ | 
+| [Support Session](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/volunteers/support_session.md)  | Monday |  Students present milestone, get support and feedback | Coach |
+| [Input Session](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/volunteers/input_session.md)  | Tuesday | The class is taught in pairs, with one person assigned as a session owner (the lecturer) and one as a teaching assistant.  The class introduces the students to the new topic of the week through theory and practice. At the end of class, the project milestone for the week is assigned. | Session Owner, Session Assistant |
+| [Q&A Support](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/volunteers/qa_session.md)  | Thursday |  In this session, the Q&A guide answers questions from the students regarding the milestone and topic of the week. One teacher collects all questions before the session and answers them in a live session. | Q&A Guide |
+| [Peer to Peer](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/volunteers/peer_to_peer.md)  | Friday |  Students drive projects together through crafting together. They meet in one Zoom call, move into breakout rooms in groups of 3-4, and rotate in pair programming. | _no support needed_ | 
 
 
 # Roles
 | Role                          | Topic                                 | Time estimation per week |
 | ------------------------------| --------------------------------------| --------- |
-| [Coach](https://github.com/ReDI-School/fullstack_bootcamp/blob/main/volunteers/coach.md)  | As a coach, you support the students in a Monday session by giving feedback on their milestones and helping them advance with it.| 5 hours per week |
-| [Session Owner](https://github.com/ReDI-School/fullstack_bootcamp/blob/main/volunteers/session_owner.md)  | As a session owner, you lead the Input session. You introduce the milestone of the week and the relevant concepts to work on it. You prepare the session and coordinate with the teaching assistant.| 5 hours per week |
-| [Teaching Assistant](https://github.com/ReDI-School/fullstack_bootcamp/blob/main/volunteers/teaching_assistant.md) | As a teaching assistant, you support the session owner in the input session. You open the Zoom call, track attendance, help answer questions, and provide support in break-out rooms. | 5 hours per week |
-| [Backup teacher](https://github.com/ReDI-School/fullstack_bootcamp/blob/main/volunteers/backup_teacher.md)  |  As a backup teacher, you are available and ready to jump in the case one of the teachers assigned for the day should have issues, or get sick. As a backup teacher, you don’t need to attend the session unless an emergency arises. | 2 hours per week |
-| [Q&A Guide](https://github.com/ReDI-School/fullstack_bootcamp/blob/main/volunteers/qa_guide.md)  | As Q&A Guide you run the Q&A support. You collect questions before the session and answer them live in a 60-minute Zoom call on Thursday. | 5 hours per week |
+| [Coach](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/volunteers/coach.md)  | As a coach, you support the students in a Monday session by giving feedback on their milestones and helping them advance with it.| 5 hours per week |
+| [Session Owner](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/volunteers/session_owner.md)  | As a session owner, you lead the Input session. You introduce the milestone of the week and the relevant concepts to work on it. You prepare the session and coordinate with the teaching assistant.| 5 hours per week |
+| [Teaching Assistant](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/volunteers/teaching_assistant.md) | As a teaching assistant, you support the session owner in the input session. You open the Zoom call, track attendance, help answer questions, and provide support in break-out rooms. | 5 hours per week |
+| [Backup teacher](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/volunteers/backup_teacher.md)  |  As a backup teacher, you are available and ready to jump in the case one of the teachers assigned for the day should have issues, or get sick. As a backup teacher, you don’t need to attend the session unless an emergency arises. | 2 hours per week |
+| [Q&A Guide](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/volunteers/qa_guide.md)  | As Q&A Guide you run the Q&A support. You collect questions before the session and answer them live in a 60-minute Zoom call on Thursday. | 5 hours per week |
 
 # Team Tasks 
 - Create a learning atmosphere where students feel safe to learn and are not afraid of making mistakes or asking questions
