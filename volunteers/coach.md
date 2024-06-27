@@ -1,5 +1,5 @@
 # Coach
-As a coach, you join the [Monday Support session](https://github.com/ReDI-School/fullstack_bootcamp/blob/main/volunteers/support_session.md). The coaching takes place in small groups. One coach looks after 4-5 students. During the 2-hour session, the group of students showcases the solution of the weekly milestone and receives feedback and support from the coach. 
+As a coach, you join the [Monday Support session](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/volunteers/support_session.md). The coaching takes place in small groups. One coach looks after 4-5 students. During the 2-hour session, the group of students showcases the solution of the weekly milestone and receives feedback and support from the coach. 
 
 ## How to run the Support Session
 
