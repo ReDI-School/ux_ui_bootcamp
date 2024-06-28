@@ -128,7 +128,7 @@ A big thank you to everyone who is contributing to this repository. _We graduall
   <tr>
     <td align="center"><a href="https://github.com/angelogulina"><img src="https://avatars.githubusercontent.com/u/4223655?v=4" width="100px;" alt=""/><br /><sub><b>Angelo Gulina</b></sub></a><br /><a href="#question-angeloguilina" title="Answering Questions">💬</a></td>
     <td align="center"><a href="https://github.com/yechielanice"><img src="https://avatars.githubusercontent.com/u/174051438?v=4" width="100px;" alt=""/><br /><sub><b>Yechiela Pojanamesbaanstit</b></sub></a><br /><a href="#question-yechielanice" title="Answering Questions">💬</a></td>
-    <td align="center"><a href="https://github.com/Helia-Einbakhsh"><img src="https://avatars.githubusercontent.com/u/173780618?v=4" width="100px;" alt=""/><br /><sub><b>Helia Einbakhsh</b></sub></a><br /><a href="#question-helia" title="Answering Questions">💬</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/helia-einbakhsh-52265494/"><img src="https://media.licdn.com/dms/image/D4E35AQFFtNsgq2-Kzg/profile-framedphoto-shrink_800_800/0/1719336023431?e=1720173600&v=beta&t=JQUGf2n1vLWxRyI6Zp9qUKGmGwuvCEn0ozCdsETAkZU" width="100px;" alt=""/><br /><sub><b>Helia Einbakhsh</b></sub></a><br /><a href="#question-helia" title="Answering Questions">💬</a></td>
   </tr>
 </table>
 <!-- markdownlint-restore -->
