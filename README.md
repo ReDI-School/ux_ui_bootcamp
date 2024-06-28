@@ -127,11 +127,7 @@ A big thank you to everyone who is contributing to this repository. _We graduall
 <table>
   <tr>
     <td align="center"><a href="https://github.com/angelogulina"><img src="https://avatars.githubusercontent.com/u/4223655?v=4" width="100px;" alt=""/><br /><sub><b>Angelo Gulina</b></sub></a><br /><a href="#question-angeloguilina" title="Answering Questions">💬</a></td>
-  </tr>
-  <tr>  
     <td align="center"><a href="https://github.com/yechielanice"><img src="https://avatars.githubusercontent.com/u/174051438?v=4" width="100px;" alt=""/><br /><sub><b>Yechiela Pojanamesbaanstit</b></sub></a><br /><a href="#question-yechielanice" title="Answering Questions">💬</a></td>
-  </tr>
-  <tr>  
     <td align="center"><a href="https://github.com/Helia-Einbakhsh"><img src="https://avatars.githubusercontent.com/u/173780618?v=4" width="100px;" alt=""/><br /><sub><b>Helia Einbakhsh</b></sub></a><br /><a href="#question-helia" title="Answering Questions">💬</a></td>
   </tr>
 </table>
