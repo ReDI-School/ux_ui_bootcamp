@@ -1,7 +1,7 @@
 # Q&A Guide
 
 ## Introduction
-As Q&A Guide, you run the Q&A support. You collect questions before the session and answer them live in a 60-minute Zoom call on Thursday.
+As Q&A Guide, you run the [Q&A Session](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/volunteers/qa_session.md). You collect questions before the session and answer them live in a 60-minute Zoom call on Thursday.
 
 ## How to run the Q&A Session
 
