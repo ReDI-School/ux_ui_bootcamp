@@ -1,5 +1,5 @@
 # Coach
-As a coach, you join the [Monday Coaching Session](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/volunteers/support_session.md). The coaching takes place in small groups. One coach looks after 4-5 students. During the 2-hour session, the group of students showcases the solution of the weekly milestone and receives feedback and support from the coach. 
+As a coach, you join the [Coaching Session](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/volunteers/support_session.md) on Monday from 19:00-21:00. The coaching takes place in small groups. One coach looks after 4-5 students. During the 2-hour session, the group of students showcases the solution of the weekly milestone and receives feedback and support from the coach. 
 
 ## How to run the Coaching Session
 
@@ -10,7 +10,7 @@ As a coach, you join the [Monday Coaching Session](https://github.com/ReDI-Schoo
 **In the Session:**
 1. Join the Zoom Call 5 minutes before the Session starts. 
 2. Claim Host (Check out the pinned Guide in Slack on how to do so).
-3. Wait until 19:05 to give everyone a chance to arrive and kick-off.
+3. Wait until 19:05 to give everyone a chance to arrive and kick-off. You can introduce the session with the [Coaching Slides](https://docs.google.com/presentation/d/1za2kLOg6q6HkBUE8Q-9Xi-_QomgBedJtZNEVGHvvCFY/edit?usp=sharing).
 4. Open 5 breakout rooms. Every student group joins their respective breakout room, and the coaches distribute themselves to the breakout rooms.
 5. In the breakout room, every student has 5 minutes to present. Afterward, the coach and other students have 10 minutes for Q&A and help the student further progress or finish with their solution. Then, the next student presents.
 
