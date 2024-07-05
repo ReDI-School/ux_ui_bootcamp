@@ -1,4 +1,4 @@
-# Web Application Project
+# Dashboard Project
 
 ## Index
 1. Introduction
@@ -8,9 +8,11 @@
 5. Learning Objective
 
 ----------
+![Dashboard Project](https://github.com/ReDI-School/ux_ui_bootcamp/assets/51905839/53453069-07a7-4050-a817-cad4181bba7b)
+
 
 ## 1. Introduction
-Although they may seem invisible, the principles of visual design and UX design are the technical pillars that allow us to generate products of high aesthetic and functional value. In this project we will focus on both the information architecture and the visual interface of a digital platform, to delve into the more technical aspects that underpin our proposals.
+Although they may seem invisible, the principles of visual design and UX design are the technical pillars that allow us to generate products of high aesthetic and functional value. In this project, we will focus on both the information architecture and the visual interface of a digital platform to delve into the more technical aspects that underpin our proposals.
 
 ## 2. Project Summary
 Your mission will be to design a dashboard from scratch, starting with the hierarchy and information architecture (grouping, labels, navigation), the design of the proposed visual interface (layout, spacing, colors, typography, etc.) and finally validation with users.
@@ -22,11 +24,11 @@ General project objectives:
 3. Design a digital proposal that contributes to solving the aforementioned challenges.
 
 ## 3. Learning Objective
-- You define the scope and work plan at a general level, with detailed stages, deliverables, times and activities
-- You will learn how to generate design proposals from scratch, when there is no initial product to improve, as well as how to use tools for non-modern usability testing
+- You define the scope and work plan at a general level, with detailed stages, deliverables, times, and activities
+- You will learn how to generate design proposals from scratch when there is no initial product to improve, as well as how to use tools for non-modern usability testing
 - Deepen in visual design principles, accessibility, usability, information architecture and user flows
 - Design content and basic voice and tone guidelines that apply to UX content
-- Document component library and reusable patterns, using Atomic Design principles 
+- Document component library and reusable patterns using Atomic Design principles 
 
 Keep an eye👀 on these life skills:
 While life skills are always important, keep an eye on these particular life skills:
@@ -38,7 +40,7 @@ While life skills are always important, keep an eye on these particular life ski
 
 ## 4. Considerations
 - Interviews and surveys are not allowed, so that you dare to experiment with the design process. The usability tests must be non-moderated.
-- You recruit users for the tests. Try to make them potential users and ideally test with 5 people, otherwise the results may be biased or insufficient.
+- You recruit users for the tests. Try to make them potential users and ideally test with 5 people otherwise the results may be biased or insufficient.
 - You should present your own solution, prototypes and tests. We know that some solutions will be similar since they solve the same challenge, but our way of thinking and solving is unique, dare to explore beyond the conventional.
 
 ## 5. Scope
@@ -53,30 +55,39 @@ The project is divided into milestones, which are like kilometer markers on the 
 #### 1. Milestone: Planning, Analysis and Design Proposal (mandatory)  
 You start the milestone with planning through your project. How to understand the users of products that don't exist yet? By analyzing competitors' products or other tools they use to solve their needs. Lastly, you start the design proposal.
 
-**Acceptance Criteria:**
+**Deliverables:**
 - Planning
 - Competitor Analysis
 - Design Proposal
 
+**Milestone Detail: [1. Milestone](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/03_web_application/1_milestone.md)**
+
 #### 2. Milestone: Prototyping (mandatory)  
 Once you have the structure of your proposal clear, it is time to integrate the visual elements necessary to enhance a good user experience.
 
-**Acceptance Criteria:**
+**Deliverables:**
 - Prototype
+
+**Milestone Detail: [2. Milestone](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/03_web_application/2_milestone.md)**
+  
 
 #### 3. Milestone - Usability Test & Documentation
 It is vital to validate our proposals, especially with products built from scratch. Plan your unmoderated usability tests to obtain user information that supports the design decisions you made experimentally. Furthermore, in this milestone you set up a documentation of your project. It's important to take the time to document each one as a case study from a technical perspective. 
 
-**Acceptance Criteria:**
+**Deliverables:**
 - Usability Test
 - Documentation 
 
-#### BONUS Milestone: Design Systems and Libraries
+**Milestone Detail: [3. Milestone](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/03_web_application/3_milestone.md)**
+
+#### 4. BONUS Milestone: Design Systems and Libraries
 If you want to delve into component systematization, explore Material Design and use it in your proposal's construction.
 
-**Acceptance Criteria:**
+**Deliverables:**
 - Modify Material Design styles according to your design proposal (theme builder).
 - Download and use the Material Design library for dashboards.
+
+**Milestone Detail: [Bonus Milestone](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/03_web_application/Bonus_milestone.md)** 
 
 
 ## 7. Hints, tips, and further readings
