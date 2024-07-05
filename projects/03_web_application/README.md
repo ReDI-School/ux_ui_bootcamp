@@ -52,7 +52,7 @@ To carry out the project, you will have to choose a digital product category sin
 ## 6. Milestones & Acceptance Criteria
 The project is divided into milestones, which are like kilometer markers on the road. You can decide how far you want to go. Completing the mandatory milestones is essential to consider the project completed; the bonus milestones are optional.
 
-#### 1. Milestone: Planning, Analysis and Design Proposal (mandatory)  
+### 1. Milestone: Planning, Analysis and Design Proposal (mandatory)  
 You start the milestone with planning through your project. How to understand the users of products that don't exist yet? By analyzing competitors' products or other tools they use to solve their needs. Lastly, you start the design proposal.
 
 **Deliverables:**
@@ -62,7 +62,7 @@ You start the milestone with planning through your project. How to understand th
 
 **Milestone Detail: [1. Milestone](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/03_web_application/1_milestone.md)**
 
-#### 2. Milestone: Prototyping (mandatory)  
+### 2. Milestone: Prototyping (mandatory)  
 Once you have the structure of your proposal clear, it is time to integrate the visual elements necessary to enhance a good user experience.
 
 **Deliverables:**
@@ -71,7 +71,7 @@ Once you have the structure of your proposal clear, it is time to integrate the 
 **Milestone Detail: [2. Milestone](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/03_web_application/2_milestone.md)**
   
 
-#### 3. Milestone - Usability Test & Documentation
+### 3. Milestone - Usability Test & Documentation
 It is vital to validate our proposals, especially with products built from scratch. Plan your unmoderated usability tests to obtain user information that supports the design decisions you made experimentally. Furthermore, in this milestone you set up a documentation of your project. It's important to take the time to document each one as a case study from a technical perspective. 
 
 **Deliverables:**
@@ -80,7 +80,7 @@ It is vital to validate our proposals, especially with products built from scrat
 
 **Milestone Detail: [3. Milestone](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/03_web_application/3_milestone.md)**
 
-#### 4. BONUS Milestone: Design Systems and Libraries
+### 4. BONUS Milestone: Design Systems and Libraries
 If you want to delve into component systematization, explore Material Design and use it in your proposal's construction.
 
 **Deliverables:**
