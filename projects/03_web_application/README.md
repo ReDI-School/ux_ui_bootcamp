@@ -39,11 +39,13 @@ While life skills are always important, keep an eye on these particular life ski
 
 
 ## 4. Considerations
-- Interviews and surveys are not allowed, so that you dare to experiment with the design process. The usability tests must be non-moderated.
-- You recruit users for the tests. Try to make them potential users and ideally test with 5 people otherwise the results may be biased or insufficient.
-- You should present your own solution, prototypes and tests. We know that some solutions will be similar since they solve the same challenge, but our way of thinking and solving is unique, dare to explore beyond the conventional.
+
+- **No interviews or surveys allowed:** The aim is to encourage you to undertake the design process experimentally. Usability tests should be unmoderated.
+- **Recruit your own users:** Each team must recruit their own users for testing. Try to select potential users and ideally test with 5 people to avoid biased or insufficient results.
+- **Present unique solutions:** Each team must present their own solution, prototypes, and tests. While some solutions may be similar as they address the same challenge, your way of thinking and solving problems is unique. Dare to explore beyond the conventional.
 
 ## 5. Scope
+
 To carry out the project, you will have to choose a digital product category since you will need reference platforms. Here, we give you some options but you will be able to propose others within the defined categories:
 - Marketing: monitoring of relevant metrics for marketing. Some examples are [Semrush](https://www.semrush.com/), [Unbounce](https://unbounce.com/), and [Mixpanel](https://mixpanel.com/).
 - Sports and health: Applications focused on physical activity and health metrics. Examples: [Samsung Health](https://play.google.com/store/apps/details?id=com.sec.android.app.shealth&hl=en&gl=US&pli=1), [Flo health](https://flo.health/de), [Nike Training Club](https://www.nike.com/ntc-app)
