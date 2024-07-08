@@ -35,8 +35,9 @@ You must propose a solution that can be designed in the project timeframe, ensur
 - Basic voice and tone guide applied to the digital product
 - Proposed text (micro-copy), icons and images
 - Basic prototype* focusing on information architecture
-*A basic prototype is one that can be navigated between screens and includes the most relevant content and functionalities, without including visual details such as color, typography, etc.
+*A basic prototype is one that can be navigated between screens and includes the most relevant content and functionalities without including visual details such as color, typography, etc.
 
 
 **Resources:**
-- 
+- [Planning, Competitor Analysis, Design Proposal](https://redi-school-1.gitbook.io/ux-ui-bootcamp/3.-project-dashboard/milestone-1-planning-competitor-analysis-design-proposal)
+  
