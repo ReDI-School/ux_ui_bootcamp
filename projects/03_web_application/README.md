@@ -93,19 +93,8 @@ If you want to delve into component systematization, explore Material Design and
 
 
 ## 7. Hints, tips, and further readings
-During the project's development, the coaches will share information via Slack and in synchronous spaces as needed. Feel free to supplement with resources you research on your own and share them with all 🤓.
 
 Related resources and topics:
-- [Content on information architecture](https://coda.io/d/Bootcamp-UX-Contenido_dqkqk2rV9Z2/Arquitectura-de-la-informacion_suNmQ#_luq24)
-- Content on [UI Kit](https://coda.io/d/Bootcamp-UX-Contenido_dqkqk2rV9Z2/UI-kit-y-sistema-de-diseno_suIXG#_luzb-) and [accessibility](https://coda.io/d/Bootcamp-UX-Contenido_dqkqk2rV9Z2/Accesibilidad_suKsx#_luenB)
-- Content about [usability testing](https://coda.io/d/Bootcamp-UX-Contenido_dqkqk2rV9Z2/Testeos-con-usuarios_suLAI#_lu1kF) and [UX metrics](https://coda.io/d/Bootcamp-UX-Contenido_dqkqk2rV9Z2/Metricas-de-UX_suhXY#_lu8O8)
-- Content about [voice and tone as applied to UX](https://coda.io/d/Bootcamp-UX-Contenido_dqkqk2rV9Z2/Ux-Writing-Ux-Content_sucf6#_lunFr)
-
-Main questions:
-After reading this information, here are some questions to think about before starting the project. In case you have any doubts, please bring them to the Q&A space we will have soon:
-- What is the main difference from the previous project?
-- What key skills will you be able to practice this time?
-- Are you clear about the Learning Objectives of the project?
-- Do you understand the content of each milestone?
-- Are you curious about the project and what are you curious about?
-- Take the opportunity to focus on areas that you feel are still challenging to maximize your learning experience and strengthen OAs that you have not been able to deepen previously. You count on our guidance throughout this process, but especially, on the talent and empathy of all your teammates to further enrich this learning community! 🙌💛
+- [Planning, Competitor Analysis, Design Proposal](https://redi-school-1.gitbook.io/ux-ui-bootcamp/3.-project-dashboard/milestone-1-planning-competitor-analysis-design-proposal)
+- [Prototyping](https://redi-school-1.gitbook.io/ux-ui-bootcamp/3.-project-dashboard/milestone-2-prototyping)
+- [Usability Test and Documentation](https://redi-school-1.gitbook.io/ux-ui-bootcamp/3.-project-dashboard/milestone-3-usability-test-and-documentation)
