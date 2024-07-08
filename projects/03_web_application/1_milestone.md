@@ -1,11 +1,11 @@
-# 1. Milestone - 
+# 1. Milestone - Planning, Competitor Analysis, Design Proposal
 
 **What you do:**  You plan a design project from scratch, conduct a competitor analysis and create the first design proposal.
 **What you learn:** 
 - `Competitor Analysis` by identifying key functionalities of the competitors
 - `Project Scoping` by planning out your project from start to finish.
 - Further advance your `information architecture` skills
-- Creating a `Design Propsal`
+- Creating a `Design Proposal`
 
 ##### Task 1: Planning
 Getting organized when the business does not make a specific request can be very challenging, but it is still key to making the most of our time.
