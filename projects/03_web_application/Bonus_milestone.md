@@ -1,5 +1,10 @@
 # BONUS Milestone - Design Systems and Libraries
 
+**What you do:** You dive into Design Systems and modify material design styles according to your design. 
+**What you learn:** 
+- `Design Systems` and how to use them.
+- `Component systemization`
+- `Material Design`
 
 ## Task 1 - Design Systems and Libraries
 Instructions:
