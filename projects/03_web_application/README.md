@@ -15,28 +15,15 @@
 Although they may seem invisible, the principles of visual design and UX design are the technical pillars that allow us to generate products of high aesthetic and functional value. In this project, we will focus on both the information architecture and the visual interface of a digital platform to delve into the more technical aspects that underpin our proposals.
 
 ## 2. Project Summary
-Your mission will be to design a dashboard from scratch, starting with the hierarchy and information architecture (grouping, labels, navigation), the design of the proposed visual interface (layout, spacing, colors, typography, etc.) and finally validation with users.
-In this project, we will break the design process into phases, starting with experimentation and including the users at the end. This is a very efficient way to perform people-centered design, but the key is to get as fast as possible to the validation phase and perform it rigorously.
-
-General project objectives:
-1. We want you to focus on learning extensively and working effectively
-2. Implement all stages of the design process, adjusting activities according to the project context and available resources (time, etc.).
-3. Design a digital proposal that contributes to solving the aforementioned challenges.
+Your mission will be to design a dashboard from scratch, starting with the hierarchy and information architecture (grouping, labels, navigation), the design of the proposed visual interface (layout, spacing, colors, typography, etc.) and finally testing it with users.
+In this project, we will break the design process into phases, starting with experimentation and including the users at the end. This is a very efficient way to perform human-centered design, but the key is to get as fast as possible to the validation phase and perform it rigorously.
 
 ## 3. Learning Objective
-- You define the scope and work plan at a general level, with detailed stages, deliverables, times, and activities
+- You will learn how to define the scope and work plan at a general level, with detailed stages, deliverables, times, and activities
 - You will learn how to generate design proposals from scratch when there is no initial product to improve, as well as how to use tools for non-modern usability testing
-- Deepen in visual design principles, accessibility, usability, information architecture and user flows
-- Design content and basic voice and tone guidelines that apply to UX content
-- Document component library and reusable patterns using Atomic Design principles 
-
-Keep an eye👀 on these life skills:
-While life skills are always important, keep an eye on these particular life skills:
-1. Effective Communication. Articulates and conveys questions, thoughts, and ideas clearly and facilitates dialogue (oral or written). Is eloquent and knows how to give and receive feedback.
-2. Initiative. Monitors defines, prioritizes, and completes tasks without direct supervision. Participates actively by asking questions and providing feedback. Attempts to go beyond minimum job requirements. Is diligent, actively taking control and always tries to solve problems as they arise.
-3. Self-starter. Is able to continuously acquire new knowledge and skills. Can monitor own learning needs and find the means to attempt and achieve autonomously. Learns from own mistakes.
-4. Planning, organization, and time management. Is able to structure a "route" and identify dependencies and possible impediments. Is able to prioritize and organize his/her work in an adaptive way instead of trying to "predict".
-
+- You deepen your knowledge in visual design principles, accessibility, usability, information architecture, and user flows
+- You will learn about design content and basic voice and tone guidelines that apply to UX content
+- You will learn how to use the Document component library and reusable patterns with Atomic Design principles 
 
 ## 4. Considerations
 
@@ -46,7 +33,7 @@ While life skills are always important, keep an eye on these particular life ski
 
 ## 5. Scope
 
-To carry out the project, you will have to choose a digital product category since you will need reference platforms. Here, we give you some options but you will be able to propose others within the defined categories:
+To carry out the project, you will have to choose a digital product category since you will need reference platforms. Here, we give you some options, but you will be able to propose others within the defined categories:
 - Marketing: monitoring of relevant metrics for marketing. Some examples are [Semrush](https://www.semrush.com/), [Unbounce](https://unbounce.com/), and [Mixpanel](https://mixpanel.com/).
 - Sports and health: Applications focused on physical activity and health metrics. Examples: [Samsung Health](https://play.google.com/store/apps/details?id=com.sec.android.app.shealth&hl=en&gl=US&pli=1), [Flo health](https://flo.health/de), [Nike Training Club](https://www.nike.com/ntc-app)
 - Finance: Personal finance or modern banking applications. Example: [N26](https://n26.com/de-de), [Splitwise](https://www.splitwise.com/)
@@ -55,7 +42,7 @@ To carry out the project, you will have to choose a digital product category sin
 The project is divided into milestones, which are like kilometer markers on the road. You can decide how far you want to go. Completing the mandatory milestones is essential to consider the project completed; the bonus milestones are optional.
 
 ### 1. Milestone: Planning, Analysis and Design Proposal (mandatory)  
-You start the milestone with planning through your project. How to understand the users of products that don't exist yet? By analyzing competitors' products or other tools they use to solve their needs. Lastly, you start the design proposal.
+The initial stage of the milestone is the planning phase, which entails an in-depth analysis of the target product and its intended users. This is a challenging aspect, as it requires an understanding of the needs of users of products that have yet to be conceived. One approach to addressing this challenge is through the analysis of competitors' products or other tools they utilize to address their needs. Following this, the design proposal is initiated.
 
 **Deliverables:**
 - Planning
@@ -83,7 +70,7 @@ It is vital to validate our proposals, especially with products built from scrat
 **Milestone Detail: [3. Milestone](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/03_web_application/3_milestone.md)**
 
 ### 4. BONUS Milestone: Design Systems and Libraries
-If you want to delve into component systematization, explore Material Design and use it in your proposal's construction.
+The bonus milestone focuses on component systematization. You will explore Material Design and use it in your proposal's construction.
 
 **Deliverables:**
 - Modify Material Design styles according to your design proposal (theme builder).
