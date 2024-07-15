@@ -1,6 +1,6 @@
 # 1. Milestone - Planning, Competitor Analysis, Design Proposal
 
-**What you do:**  You plan a design project from scratch, conduct a competitor analysis and create the first design proposal.
+**What you do:**  You plan a design project from scratch, conduct a competitor analysis, and create the first design proposal.
 **What you learn:** 
 - `Competitor Analysis` by identifying key functionalities of the competitors
 - `Project Scoping` by planning out your project from start to finish.
@@ -19,7 +19,7 @@ How to understand the users of products that don't exist yet? By analyzing compe
 
 **Deliverables:**
 - Benchmark dashboard analysis, where you identify the key functionalities of this type of digital product.
-- Desktop research on user pains of the category you have chosen.
+- Desktop research on user pains in the category you have chosen.
 
 
 ##### Task 3: Design Proposal
