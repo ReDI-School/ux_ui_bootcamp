@@ -40,4 +40,6 @@ You must propose a solution that can be designed in the project timeframe, ensur
 
 **Resources:**
 - [Planning, Competitor Analysis, Design Proposal](https://redi-school-1.gitbook.io/ux-ui-bootcamp/3.-project-dashboard/milestone-1-planning-competitor-analysis-design-proposal)
+- [Information Architecture](https://redi-school-1.gitbook.io/ux-ui-bootcamp/2.-project-mobile-application/milestone-2-information-architecture-and-mid-wireframes/information-architecture)
+- [Human-Centered Design](https://redi-school-1.gitbook.io/ux-ui-bootcamp/foundations/human-centered-design)
   
