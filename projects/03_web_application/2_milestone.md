@@ -1,5 +1,11 @@
 # 2. Milestone - Prototyping
 
+**What you do:** In this milestone you prototype your proposal. You create a moodboard and a high fidelty prototype. 
+**What you learn:** 
+- `Moodboard`
+- `Component library` built under Atomic Design principles
+- `High-fidelity` prototyping
+
 ## Task 1 - Prototyping
 
 Once you have the structure of your proposal clear, it is time to integrate the visual elements necessary to enhance a good user experience.

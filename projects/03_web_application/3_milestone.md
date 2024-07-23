@@ -1,10 +1,10 @@
 # 3. Milestone - Usability Test & Documentation
 
-**What you do:** 
+**What you do:**  You will validate your proposal using a usability test. You obtain feedback from users. Additionally you create a documentation of your project to add it to your portfolio. 
 **What you learn:** 
-
-**Tips:**
-- 
+- `Usability Testing`
+- `Documentation` of your project
+- How to set up your `Portfolio`
 
 **Deliverables:**
 - Usability Test
