@@ -34,29 +34,14 @@ Based on the qualitative data, create detailed user personas that represent your
 # Milestones
 
 ## 1. Milestone - Research Plan
-What you will do: Students will outline their research objectives, methods (user interview), participant recruitment strategy, and timeline. This involves understanding the context of the project, identifying what information is needed, and determining the best methods to gather this information. Students will also plan how to recruit participants who fit the target audience criteria and develop a timeline to ensure the research is completed.
-What you learn: Students will develop skills in planning and organizing research activities, which are pivotal for gathering reliable and relevant data. They will learn how to set clear research objectives that align with the project goals and create a structured approach to participant recruitment. Additionally, students will gain experience in creating a detailed timeline to manage their research process effectively.
-Tips:
-Clearly define your research objectives to ensure your efforts are focused and relevant.
-As already said, and because it’s a practice environment, select the research objective based on the type of user segment you can reach within your network.
-Create a realistic timeline, allowing enough time for each stage of the research process.
+
+**Link to Milestone: [1_milestone.md](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/01_user_research/1_milestone.md)**
 
 ## 2. Milestone - Conducting and Analysing User Interviews
-What you do: Students will recruit participants, conduct 3-5 user interviews, transcribe and code the data, and identify key themes and insights. 
-This involves preparing interview scripts, obtaining consent from participants, and using various tools and techniques to analyze the data collected. Students will look for patterns and themes that reveal user behaviors, attitudes, needs, and pain points.
-What you learn: Students will develop skills in qualitative research, including conducting interviews and analyzing qualitative data. Through data transcription and coding, students will gain experience in identifying and categorizing key themes and insights, which are essential for understanding user needs and behaviors.
-Tips: Prepare thoroughly for interviews by creating a detailed script and obtaining all necessary consent forms.
-Use a tool that allows you to record an audio or video call so that you will not need to write the user's answer between questions.
-Build rapport with participants to encourage open and honest responses.
-Transcribe interviews accurately and organize your data systematically. You can use video transcription or audio transcription, which is available for free online.
-Look for patterns and recurring themes to gain deeper insights into user behaviors and needs.
+
+**Link to Milestone: [2_milestone.md](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/01_user_research/2_milestone.md)**
 
 
 ## 3. Milestone - Creating User Personas and User Journey Map
-What you do: Based on the interview data analysis, students will develop user personas representing different segments of their target audience. They will also create a user journey map to visualize the user’s experience and identify pain points and opportunities. This involves synthesizing the data into detailed profiles and mapping out the steps users take to achieve their goals, highlighting areas where the user experience can be improved.
-What you learn: Students will learn how to translate qualitative data into actionable insights by creating user personas and journey maps. They will gain skills in synthesizing data to create representative user-profiles and visualizing user experiences to identify pain points and opportunities for improvement.
-Tips: Use the insights gained from user interviews to create detailed and realistic personas; data must be actionable and influence design.
-Ensure your personas cover a range of user segments to capture diverse perspectives.
-Map out the user journey comprehensively, including all steps, touchpoints, and emotions.
-Look for opportunities to improve the user experience by addressing pain points and enhancing positive moments.
 
+**Link to Milestone: [3_milestone.md](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/01_user_research/3_milestone.md)**
