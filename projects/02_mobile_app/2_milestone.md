@@ -1,26 +1,33 @@
 # 2. Milestone - Information Architecture and Mid-Wireframes
 
-**What you do:** Students will begin by reviewing their previously developed user flow to ensure the user goals are clear. They will then analyze competitors like Headspace, Calm, and Insight Timer to understand industry standards. Using tools such as pencil and paper, FigJam, Figma, or Miro, students will create a Site Map by conducting a content audit, grouping related content, arranging these groups hierarchically, and mapping out links between sections. Optionally, they can conduct a card sorting exercise using a tool like Optimal Workshop to gather user insights. For wireframes, students will sketch key screens on paper, annotate these sketches with design decisions, and then create mid-fidelity wireframes in Figma. The screens will include the splash screen, onboarding screens, sign-up/login page, profile area, and user flow reflecting a key user goal. Finally, they will share their wireframes for feedback and make necessary adjustments.
+### What you do:
 
-**What you learn:** Through this process, students will learn the importance of Information Architecture in enhancing user experience and the different types of IA structures such as hierarchical, sequential, and flat structures. They will gain practical skills in conducting organising information, and creating Site Maps. Additionally, they will understand the differences between low-fidelity, mid-fidelity, and high-fidelity wireframes, and how to focus on user experience elements like navigation, content organisation, and interaction flow. By using Figma to create wireframes, students will develop practical design skills, and by conducting card sorting (optional), they will gain insights into user preferences to create more intuitive designs.
+You will begin by reviewing your previously developed user flow to ensure the user goals are clear. You will then analyze competitors like Headspace, Calm, and Insight Timer to understand industry standards. Using tools such as pencil and paper, FigJam, Figma, or Miro, you will create a Site Map by conducting a content audit, grouping related content, arranging these groups hierarchically, and mapping out links between sections. Optionally, you can conduct a card sorting exercise using a tool like Optimal Workshop to gather user insights. For wireframes, you will sketch key screens on paper, annotate these sketches with design decisions, and then create mid-fidelity wireframes in Figma. The screens will include the splash screen, onboarding screens, sign-up/login page, profile area, and user flow reflecting a key user goal. Finally, you will share your wireframes for feedback and make necessary adjustments.
 
-**Tips:**
+### What you learn:
+
+Through this process, you will learn the importance of Information Architecture in enhancing user experience and the different types of IA structures such as hierarchical, sequential, and flat structures. You will gain practical skills in conducting organising information, and creating Site Maps. Additionally, you will understand the differences between low-fidelity, mid-fidelity, and high-fidelity wireframes, and how to focus on user experience elements like navigation, content organisation, and interaction flow. By using Figma to create wireframes, you will develop practical design skills, and by conducting card sorting (optional), you will gain insights into user preferences to create more intuitive designs.
+
+### Tips:
+
 - Ensure you have gained the elements of Information Architecture (IA) and the importance of clear navigation in digital products. Understanding these concepts will provide a strong framework for your work.
 - When creating a site map, focus on clarity and logical organization.
 - UX Designers do not work alone. If possible, collaborate with peers to get feedback on your work. Different perspectives can help identify gaps or new insights.
 
-**Deliverables:**
+### Deliverables:
+
 - Site Map in Figjam 
 - Mid-Fidelity Wireframes
 
-## Task 1 - Site Map
+### Task 1 - Site Map
 
 Instructions:
 1. Review your User Flow to keep in mind the goals your user needs to achieve
-2. Take inspiration from your competitors (Headspace, Calm, and Insight Timer) to understand how they have organised the navigation of their mobile application.
+2. Take inspiration from your competitors (Headspace, Calm, and Insight Timer) to understand how they have organised the navigation of your mobile application.
 3. Create the Site Map. Start with the main page, from there strace the different branches as seen in the examples. As a tool use FigJam. Remember to keep the work accessible, so share the link with your teacher.
 
-## Task 2 - Wireframes
+### Task 2 - Wireframes
+
 Instructions:
 
 1. Based on the requirements of the founder Thomas, you will have to create these deliverables:
@@ -35,7 +42,8 @@ Instructions:
 3. Once you are satisfied with your sketches, move to Figma and turn them into mid-fidelity wireframes and write notes explaining the functionality and the elements on screen. 
 In the next part of the project, you will prototype your mid-fidelity wireframes, conduct a Usability test, refine the design and turn your mid-fidelity wireframes into high-fidelity wireframes.
 
-**Resources:**
+### Resources:
+
 - [Gitbook Site Map](https://redi-school-1.gitbook.io/ux-ui-bootcamp/site-map)
 - [Gitbook Mobile Navigation Patterns](https://redi-school-1.gitbook.io/ux-ui-bootcamp/mobile-navigation-patterns)
 - [Mobile Design Patterns](https://redi-school-1.gitbook.io/ux-ui-bootcamp/mobile-design-patterns)
