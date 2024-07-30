@@ -28,8 +28,8 @@ In this project, we will break the design process into phases, starting with exp
 ## 4. Considerations
 
 - **No interviews or surveys allowed:** The aim is to encourage you to undertake the design process experimentally. Usability tests should be unmoderated.
-- **Recruit your own users:** Each team must recruit their own users for testing. Try to select potential users and ideally test with 5 people to avoid biased or insufficient results.
-- **Present unique solutions:** Each team must present their own solution, prototypes, and tests. While some solutions may be similar as they address the same challenge, your way of thinking and solving problems is unique. Dare to explore beyond the conventional.
+- **Recruit your own users:** You must recruit your own users for testing. Try to select potential users and ideally test with 5 people to avoid biased or insufficient results.
+- **Present unique solutions:** You must present your own solution, prototypes, and tests. While some solutions may be similar as they address the same challenge, your way of thinking and solving problems is unique. Dare to explore beyond the conventional.
 
 ## 5. Scope
 

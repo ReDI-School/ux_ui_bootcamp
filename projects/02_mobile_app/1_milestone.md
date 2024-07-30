@@ -1,12 +1,12 @@
-# 1. Milestone - Analysis, Empathy Map and User flows
+# 1. Milestone - Develop an Empathy Map, a Task Analysis and User Flows
 
 ### What you will do:
 
-Students will analyse the answer of the user interviews and extract meaningful insights related to behaviours, attitudes, needs, goals, and frustrations. They will then Identify and highlight key phrases or sentences that indicate user motivations, preferences, and challenges They will then create an Empathy Map and fill out a Task Analysis template created to give them a facilitation. Ultimately they will propose task analysis steps and they will create a user flow.
+You will analyse the answer of the user interviews and extract meaningful insights related to behaviours, attitudes, needs, goals, and frustrations. You will then Identify and highlight key phrases or sentences that indicate user motivations, preferences, and challenges You will then create an Empathy Map and fill out a Task Analysis template created to give them a facilitation. Ultimately you will propose task analysis steps and you will create a user flow.
 
 ### What you learn:
 
-Students will continue to develop analytical skills and critical thinking by internalizing the fundamental principle of user experience design: that UX Design decisions are rooted in research with the user as the focal point. They will learn to extract and synthesize valuable user insights from interview data, developing a keen eye for identifying and categorizing user behaviors, attitudes, needs, goals, and frustrations. Additionally, students will acquire proficiency in creating empathy maps to visualize and deepen their understanding of user experiences. Furthermore, they will become familiar with the principles of task analysis, utilizing it to comprehend user flows and goals, while also gaining an understanding of user flows themselves, essential components in crafting seamless user experiences.
+You will continue to develop analytical skills and critical thinking by internalizing the fundamental principle of user experience design: that UX Design decisions are rooted in research with the user as the focal point. You will learn to extract and synthesize valuable user insights from interview data, developing a keen eye for identifying and categorizing user behaviors, attitudes, needs, goals, and frustrations. Additionally, you will acquire proficiency in creating empathy maps to visualize and deepen your understanding of user experiences. Furthermore, you will become familiar with the principles of task analysis, utilizing it to comprehend user flows and goals, while also gaining an understanding of user flows themselves, essential components in crafting seamless user experiences.
 
 ### Tips:
 
@@ -134,7 +134,7 @@ Based on the information that you have extracted so far, you should have a bette
 We are now in the “Effortless Navigation” requirement and it’s time to create the “User Flow”
 
 Suggestions:
-- Take a look at the app meditations of the competitors that the users interviewed mentioned, navigate them and see how their user flow is organised.
+- Take a look at the app meditations of the competitors that the users interviewed mentioned, navigate them and see how your user flow is organised.
 - As an entry point for your “User Flow” you can use the splash screen, or skip it and use the sign up/login as entry point.
 - What comes after the entry point, is the path that the user needs to take in order to achieve its goal, the task that he has to perform which is made of several steps. It can be a straight happy path. It can be, or a more elaborate path if, for example, you want to include more than one goal (registration, changing meditation, adding meditation and so on. If you opt for a “User Flow” that displays different paths and so different tasks, remember that when you will have to create the wireframes out of it, specifically for the prototyping stage, you may open to break it down so as to have separate tasks.
 - To create your “User Flows” you can choose between Figma, FigmaJam or Miro or well, even paper and pencil if you have no other means.

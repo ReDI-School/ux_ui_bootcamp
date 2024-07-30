@@ -1,4 +1,4 @@
-# Milestone 1 - Research Plan
+# Milestone 1 - Develop a Research Plan
 
 ### What you will do:
 
@@ -6,7 +6,7 @@ Outline your research objectives, methods (user interview), participant recruitm
 
 ### What you learn:
 
-You will develop skills in planning and organizing research activities, which are pivotal for gathering reliable and relevant data. You will learn how to set clear research objectives that align with the project goals, and create a structured approach to participant recruitment. Additionally, you will gain experience in creating a detailed timeline to manage their research process effectively.
+You will develop skills in planning and organizing research activities, which are pivotal for gathering reliable and relevant data. You will learn how to set clear research objectives that align with the project goals, and create a structured approach to participant recruitment. Additionally, you will gain experience in creating a detailed timeline to manage your research process effectively.
 
 ### Tips:
 - Review the [Foundations Section](https://redi-school-1.gitbook.io/ux-ui-bootcamp/foundations/introduction-to-ux-design) before you work on the Planning. 

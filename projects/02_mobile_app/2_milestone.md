@@ -2,11 +2,11 @@
 
 ### What you do:
 
-Students will begin by reviewing their previously developed user flow to ensure the user goals are clear. They will then analyze competitors like Headspace, Calm, and Insight Timer to understand industry standards. Using tools such as pencil and paper, FigJam, Figma, or Miro, students will create a Site Map by conducting a content audit, grouping related content, arranging these groups hierarchically, and mapping out links between sections. Optionally, they can conduct a card sorting exercise using a tool like Optimal Workshop to gather user insights. For wireframes, students will sketch key screens on paper, annotate these sketches with design decisions, and then create mid-fidelity wireframes in Figma. The screens will include the splash screen, onboarding screens, sign-up/login page, profile area, and user flow reflecting a key user goal. Finally, they will share their wireframes for feedback and make necessary adjustments.
+You will begin by reviewing your previously developed user flow to ensure the user goals are clear. You will then analyze competitors like Headspace, Calm, and Insight Timer to understand industry standards. Using tools such as pencil and paper, FigJam, Figma, or Miro, you will create a Site Map by conducting a content audit, grouping related content, arranging these groups hierarchically, and mapping out links between sections. Optionally, you can conduct a card sorting exercise using a tool like Optimal Workshop to gather user insights. For wireframes, you will sketch key screens on paper, annotate these sketches with design decisions, and then create mid-fidelity wireframes in Figma. The screens will include the splash screen, onboarding screens, sign-up/login page, profile area, and user flow reflecting a key user goal. Finally, you will share your wireframes for feedback and make necessary adjustments.
 
 ### What you learn:
 
-Through this process, students will learn the importance of Information Architecture in enhancing user experience and the different types of IA structures such as hierarchical, sequential, and flat structures. They will gain practical skills in conducting organising information, and creating Site Maps. Additionally, they will understand the differences between low-fidelity, mid-fidelity, and high-fidelity wireframes, and how to focus on user experience elements like navigation, content organisation, and interaction flow. By using Figma to create wireframes, students will develop practical design skills, and by conducting card sorting (optional), they will gain insights into user preferences to create more intuitive designs.
+Through this process, you will learn the importance of Information Architecture in enhancing user experience and the different types of IA structures such as hierarchical, sequential, and flat structures. You will gain practical skills in conducting organising information, and creating Site Maps. Additionally, you will understand the differences between low-fidelity, mid-fidelity, and high-fidelity wireframes, and how to focus on user experience elements like navigation, content organisation, and interaction flow. By using Figma to create wireframes, you will develop practical design skills, and by conducting card sorting (optional), you will gain insights into user preferences to create more intuitive designs.
 
 ### Tips:
 
@@ -23,7 +23,7 @@ Through this process, students will learn the importance of Information Architec
 
 Instructions:
 1. Review your User Flow to keep in mind the goals your user needs to achieve
-2. Take inspiration from your competitors (Headspace, Calm, and Insight Timer) to understand how they have organised the navigation of their mobile application.
+2. Take inspiration from your competitors (Headspace, Calm, and Insight Timer) to understand how they have organised the navigation of your mobile application.
 3. Create the Site Map. Start with the main page, from there strace the different branches as seen in the examples. As a tool use FigJam. Remember to keep the work accessible, so share the link with your teacher.
 
 ### Task 2 - Wireframes

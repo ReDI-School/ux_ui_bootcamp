@@ -1,4 +1,4 @@
-# Milestone 2 - Conducting and Analysing User Interviews
+# Milestone 2 - Conduct and Analyse User Interviews
  
 ### What you do:
 
