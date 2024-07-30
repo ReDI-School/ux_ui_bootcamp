@@ -38,4 +38,6 @@ Based on the qualitative data, create detailed user personas that represent your
 **Link to Milestone: [bonus_milestone.md](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/01_user_research/bonus_milestone.md)**
 
 **Resources:**
-- 
+
+- [Research Planning](https://redi-school-1.gitbook.io/ux-ui-bootcamp/1.-project/milestone-1-research-planning)
+- [User Research](https://redi-school-1.gitbook.io/ux-ui-bootcamp/1.-project/milestone-2-user-research)
