@@ -9,7 +9,7 @@ Outline your research objectives, methods (user interview), participant recruitm
 You will develop skills in planning and organizing research activities, which are pivotal for gathering reliable and relevant data. You will learn how to set clear research objectives that align with the project goals, and create a structured approach to participant recruitment. Additionally, you will gain experience in creating a detailed timeline to manage their research process effectively.
 
 ### Tips:
-
+- Review the [Foundations Section](https://redi-school-1.gitbook.io/ux-ui-bootcamp/foundations/introduction-to-ux-design) before you work on the Planning. 
 - Clearly define your research objectives to ensure your efforts are focused and relevant.
 - As already said and because it’s a practice environment, select the research objective based on the type of user segment you can reach within your network.
 - Create a realistic timeline, allowing enough time for each stage of the research process.
@@ -20,4 +20,4 @@ You will develop skills in planning and organizing research activities, which ar
 
 ### Resources:
 
-- 
+- [Research Planning](https://redi-school-1.gitbook.io/ux-ui-bootcamp/1.-project/milestone-1-research-planning)

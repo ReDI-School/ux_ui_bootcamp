@@ -22,4 +22,5 @@ You will develop skills in qualitative research, including conducting interviews
 - Interview Scripts
 
 ### Resources:
-- 
+
+- [User Interviews](https://redi-school-1.gitbook.io/ux-ui-bootcamp/1.-project/milestone-2-user-research/user-interviews)
