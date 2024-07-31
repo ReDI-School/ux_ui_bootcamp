@@ -20,6 +20,7 @@ If you have a lot of friends who travel frequently, you might explore their expe
 
 ### 1. Milestone - Develop a Research Plan
 Develop a research plan to understand user needs and preferences for the target of your research. 
+
 **Link to Milestone: [1_milestone.md](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/01_user_research/1_milestone.md)**
 
 ### 2. Milestone - Conduct and Analyse User Interviews

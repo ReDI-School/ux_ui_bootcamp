@@ -14,6 +14,19 @@ You will develop skills in planning and organizing research activities, which ar
 - As already said and because it’s a practice environment, select the research objective based on the type of user segment you can reach within your network.
 - Create a realistic timeline, allowing enough time for each stage of the research process.
 
+### Task 1:
+
+- Define your research objective
+- Define what research method you will use (user interviews)
+- Create a participant recruitment strategy. Make sure the participant profiles fit your target audience criteria.
+- Set up a timeline for the project:
+    - When are you going to interview the users?
+    - Tip: Look at the Milestone 2 & 3 to see what the next steps are.
+
+### Task 2:
+
+- Reach out to the participants to schedule interviews for the 2nd week. 
+
 ### Deliverables:
 
 - Research Plan with research objectives, methods, participant recruitment strategy, timeline
