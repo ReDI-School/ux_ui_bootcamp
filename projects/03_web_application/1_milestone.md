@@ -13,6 +13,7 @@ competitor analysis, and finally create the first design proposal!
 ## Task 1: Planning
 
 **Steps:**
+
 1. Choose a product category from the three proposed areas [Marketing, Sports and Health, Finance](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/03_web_application/README.md)
 2.  Write a brief Project Plan outlining the project's overall scope, including potential deliverables. Develop a detailed work plan that lists specific tasks to be completed during the project.
 3. Write down which skills you want to strengthen during the project to define the time you will spend in each stage. For example, if you want to strengthen your prototyping and UI design skills, plan a brief analysis and a strong focus on visual exploration from the beginning.
@@ -46,14 +47,15 @@ After planning your project in the previous task, you now need to understand the
 
 After understanding the users and analyzing competitors' products, you are ready to propose a solution that can be developed within the project timeframe, ensuring that it solves the priority problems.
 
-Steps:
+**Steps:**
+
 - Come up with multiple solution ideas. The ideas can be phrases or pen and paper sketches that represent solutions. Prioritize one.
 - Design user flow diagrams and information architecture (categories, labels, navigation).
 - Ensure that the proposal respects usability principles
 - Add basic voice and tone guide applied to the digital product.
 - Add proposed text, icons and images. You can use ChatGPT for this! Have a look at this [Copy Writer GPT](https://chatgpt.com/g/g-rkKtHhIOR-the-secret-copywriter).
-- Create a basic prototype* focusing on the information architecture. 
-    *A basic prototype is one that can be navigated between screens and includes the most relevant content and functionalities without including visual details such as color, typography, etc.
+- Create a basic prototype* focusing on the [information architecture](https://redi-school-1.gitbook.io/ux-ui-bootcamp/2.-project-mobile-application/milestone-2-information-architecture-and-mid-wireframes/information-architecture). 
+    *A basic [prototype](https://redi-school-1.gitbook.io/ux-ui-bootcamp/2.-project-mobile-application/milestone-3-prototyping-testing-and-refining/prototyping/type-of-prototypes) is one that can be navigated between screens and includes the most relevant content and functionalities without including visual details such as color, typography, etc.
 
 **Deliverables:**
 

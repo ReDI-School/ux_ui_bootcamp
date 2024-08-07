@@ -12,20 +12,34 @@ You've got your design proposal ready to go. In this milestone, you'll prototype
 
 Once you have the structure of your proposal clear, it is time to integrate the visual elements necessary to enhance a good user experience.
 
+**Steps:** 
+
+1. Create a [Moodboard]((https://redi-school-1.gitbook.io/ux-ui-bootcamp/3.-project-dashboard/milestone-2-prototyping/mood-board)) with visual references that work as inspiration for your UI.
+2. Create a [Style guide](https://redi-school-1.gitbook.io/ux-ui-bootcamp/3.-project-dashboard/milestone-2-prototyping/style-guide) with specifications of the graphic elements: color palette, fonts, layout, and spacing between elements (internal margins: padding / external margins: margin). 
+
 **Deliverables:**
 
-- [Moodboard]((https://redi-school-1.gitbook.io/ux-ui-bootcamp/3.-project-dashboard/milestone-2-prototyping/mood-board)) with visual references that work as inspiration for your UI.
-- Visual guide with specifications of the graphic elements: color palette, fonts, layout, and spacing between elements (internal margins: padding / external margins: margin).
-
+- Moodboard 
+- Visual Guide
 
 
 ## Task 2 - Prototyping
 
-- A high-fidelity navigable [prototype](https://redi-school-1.gitbook.io/ux-ui-bootcamp/2.-project-mobile-application/milestone-3-prototyping-testing-and-refining/prototyping/type-of-prototypes) with basic interactions (change screen, back, etc.). It must include a web version and a mobile or tablet version.
-- Explanation where you demonstrate how you applied the basic principles of accessibility in your proposal (perceptibility and operability).
-- Component library (UI Kit) built under Atomic Design principles.
+Now it is time to prototype! Use your Style Guide and Mood Board to set up a high-fidelity Prototype that is just enough to test it in the 3rd milestone. 
 
+**Steps:** 
+
+- Create a high-fidelity navigable [prototype](https://redi-school-1.gitbook.io/ux-ui-bootcamp/2.-project-mobile-application/milestone-3-prototyping-testing-and-refining/prototyping/type-of-prototypes) with basic interactions (change screen, back, etc.). It must include a web version and a mobile or tablet version.
+- Use a [Component library (UI Kit)](https://redi-school-1.gitbook.io/ux-ui-bootcamp/3.-project-dashboard/milestone-2-design-and-prototyping/component-library-and-ui-kits) built under [Atomic Design principles](https://medium.com/galaxy-ux-studio/principles-of-atomic-design-7b03a30c3cb6).
+
+
+**Deliverables:**
+
+- High-fidelity Prototype
 
 **Resources:**
 
 - [Prototyping](https://redi-school-1.gitbook.io/ux-ui-bootcamp/2.-project-mobile-application/milestone-3-prototyping-testing-and-refining/prototyping/type-of-prototypes)
+- [Component library (UI Kit)](https://redi-school-1.gitbook.io/ux-ui-bootcamp/3.-project-dashboard/milestone-2-design-and-prototyping/component-library-and-ui-kits)
+- [Style guide](https://redi-school-1.gitbook.io/ux-ui-bootcamp/3.-project-dashboard/milestone-2-prototyping/style-guide) 
+- [Moodboard]((https://redi-school-1.gitbook.io/ux-ui-bootcamp/3.-project-dashboard/milestone-2-prototyping/mood-board)) 
