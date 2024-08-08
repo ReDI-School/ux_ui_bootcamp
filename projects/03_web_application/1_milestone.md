@@ -52,8 +52,7 @@ After understanding the users and analyzing competitors' products, you are ready
 - Come up with multiple solution ideas for the product. The ideas can be phrases or pen and paper sketches that represent solutions. Prioritize one.
 - Design user flow diagrams and [information architecture](https://redi-school-1.gitbook.io/ux-ui-bootcamp/2.-project-mobile-application/milestone-2-information-architecture-and-mid-wireframes/information-architecture) (categories, labels, navigation).
 - Ensure that the proposal respects usability principles
-- Add basic voice and tone guide applied to the digital product.
-- Add proposed text, icons and images. You can use ChatGPT for this! Have a look at this [Copy Writer GPT](https://chatgpt.com/g/g-rkKtHhIOR-the-secret-copywriter).
+- Add a basic voice and tone guide applied to the digital product. Add proposed text, icons, and images. You can use ChatGPT for this! Have a look at this [Copy Writer GPT](https://chatgpt.com/g/g-rkKtHhIOR-the-secret-copywriter).
 - Create a basic prototype* focusing on the [information architecture](https://redi-school-1.gitbook.io/ux-ui-bootcamp/2.-project-mobile-application/milestone-2-information-architecture-and-mid-wireframes/information-architecture). 
     *A basic [prototype](https://redi-school-1.gitbook.io/ux-ui-bootcamp/2.-project-mobile-application/milestone-3-prototyping-testing-and-refining/prototyping/type-of-prototypes) is one that can be navigated between screens and includes the most relevant content and functionalities without including visual details such as color, typography, etc.
 
