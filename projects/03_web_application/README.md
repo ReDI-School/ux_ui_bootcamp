@@ -3,9 +3,11 @@
 ## Index
 1. Introduction
 2. Project Summary
-3. Milestones & Deliverables
-4. Bonus Milestone
-5. Learning Objective
+3. Learning Objective
+4. Considerations
+5. Scope
+6. Milestones
+7. Resources
 
 ---
 
@@ -42,7 +44,7 @@ In this project, you choose a digital product you want to work on! You can choos
 - **Sports and health**: Applications focused on physical activity and health metrics. Examples: [Samsung Health](https://play.google.com/store/apps/details?id=com.sec.android.app.shealth&hl=en&gl=US&pli=1), [Flo health](https://flo.health/de), [Nike Training Club](https://www.nike.com/ntc-app)
 - **Finance**: Personal finance or modern banking applications. Example: [N26](https://n26.com/de-de), [Splitwise](https://www.splitwise.com/)
 
-## 6. Milestones & Acceptance Criteria
+## 6. Milestones
 
 ### 1. Milestone: Planning, Analysis, and Design Proposal
 
@@ -90,7 +92,7 @@ The bonus milestone focuses on component systematization. You will explore mater
 **Milestone Detail: [Bonus Milestone](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/03_web_application/Bonus_milestone.md)** 
 
 
-## 7. Hints, tips, and further readings
+## 7. Resources
 
 Related resources and topics:
 - [Planning, Competitor Analysis, Design Proposal](https://redi-school-1.gitbook.io/ux-ui-bootcamp/3.-project-dashboard/milestone-1-planning-competitor-analysis-design-proposal)
