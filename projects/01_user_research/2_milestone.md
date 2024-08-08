@@ -4,7 +4,7 @@
 
 You will recruit participants, conduct 3-5 user interviews, transcribe and code the data, and identify key themes and insights. This involves preparing interview scripts, obtaining consent from participants, and using various tools and techniques to analyze the data collected. You will look for patterns and themes that reveal user behaviors, attitudes, needs, and pain points.
 
-### What you learn:
+### You will learn more about:
 
 You will develop skills in qualitative research, including conducting interviews and analyzing qualitative data. Through data transcription and coding, you will gain experience in identifying and categorising key themes and insights, which are essential for understanding user needs and behaviors.
 

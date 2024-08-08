@@ -28,7 +28,7 @@ After planning your project in the previous task, you now need to understand the
 
 **Steps:**
 
-1. Analyse dashboards from competitors. Perform a [competitor analysis](https://redi-school-1.gitbook.io/ux-ui-bootcamp/3.-project-dashboard/milestone-1-planning-competitor-analysis-design-proposal/competitor-analysis), where you identify user experience aspects of a functionality of these products. 
+1. Analyse dashboards from competitors. Perform a competitor analysis, where you identify user experience aspects of a functionality of these products. Read about how to conduct a Competitor Analysis in our Gitbook: [Competitor Analysis](https://redi-school-1.gitbook.io/ux-ui-bootcamp/3.-project-dashboard/milestone-1-planning-competitor-analysis-design-proposal/competitor-analysis). 
     1. Define your Comparison Criteria: Before you start, create a short list of comparison criteria. You can add more when needed.
     2. Identify Competitors: Who is currently trying to solve this problem? Identify 3-5 competitors. 
     3. Gather Data: Examine competitors’ designs, product interfaces, and features to gather information. Answer: How are the competitors trying to solve the problem? What are their main differentiator or unique value-adds for their business and products? What IA has been chosen? What kind of interactions help to drive the feature? What UI elements complement this goal?
@@ -50,7 +50,7 @@ After understanding the users and analyzing competitors' products, you are ready
 **Steps:**
 
 - Come up with multiple solution ideas. The ideas can be phrases or pen and paper sketches that represent solutions. Prioritize one.
-- Design user flow diagrams and information architecture (categories, labels, navigation).
+- Design user flow diagrams and [information architecture](https://redi-school-1.gitbook.io/ux-ui-bootcamp/2.-project-mobile-application/milestone-2-information-architecture-and-mid-wireframes/information-architecture) (categories, labels, navigation).
 - Ensure that the proposal respects usability principles
 - Add basic voice and tone guide applied to the digital product.
 - Add proposed text, icons and images. You can use ChatGPT for this! Have a look at this [Copy Writer GPT](https://chatgpt.com/g/g-rkKtHhIOR-the-secret-copywriter).
