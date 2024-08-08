@@ -4,7 +4,7 @@
 
 Based on the interview data analysis, you will develop user personas that represent different segments of your target audience. You will also create a user journey map to visualize the user’s experience and identify pain points and opportunities. This involves synthesizing the data into detailed profiles and mapping out the steps users take to achieve your goals, highlighting areas where the user experience can be improved.
 
-### What you learn:
+### You will learn more about:
 
 You will learn how to translate qualitative data into actionable insights through the creation of user personas and journey maps. You will gain skills in synthesizing data to create representative user profiles and visualizing user experiences to identify pain points and opportunities for improvement.
 

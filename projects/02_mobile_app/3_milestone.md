@@ -4,7 +4,7 @@
 
 You will first convert your mid-fidelity wireframes into clickable prototypes using Figma, following the user flows previously established. You can refer to Figma tutorials for assistance in prototyping. Next, you will engage in usability testing and refinement. You will decide on tasks to test, prepare test plans and scripts, and conduct three rounds of usability tests with different users, focusing on tasks related to online meditation. During the tests, you will take notes and prepare a Usability Analysis Report using Nielsen error metrics. After completing the tests, you will refine your mid-fidelity wireframes based on your findings and then create high-fidelity wireframes, incorporating elements like splash screens, onboarding flows, sign-up/login screens, profile areas, and features tested during usability analysis.
 
-### What you learn:
+### You will learn more about:
 
 You will learn how to translate mid-fidelity wireframes into interactive prototypes using Figma, gaining proficiency in simulating user interactions and flows. Through usability testing, you will learn how to develop test plans, scripts, and conduct sessions to gather valuable feedback from users. You will also gain insights into analyzing usability data and prioritizing design improvements based on user feedback. Additionally, you will learn the importance of iterative design processes, refining your prototypes based on usability test results to enhance the overall user experience. Overall, milestone three equips you with practical skills in prototyping, usability testing, and iterative design, essential for creating user-centered digital products.
 

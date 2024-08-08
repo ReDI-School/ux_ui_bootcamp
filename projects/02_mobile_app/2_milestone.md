@@ -4,7 +4,7 @@
 
 You will begin by reviewing your previously developed user flow to ensure the user goals are clear. You will then analyze competitors like Headspace, Calm, and Insight Timer to understand industry standards. Using tools such as pencil and paper, FigJam, Figma, or Miro, you will create a Site Map by conducting a content audit, grouping related content, arranging these groups hierarchically, and mapping out links between sections. Optionally, you can conduct a card sorting exercise using a tool like Optimal Workshop to gather user insights. For wireframes, you will sketch key screens on paper, annotate these sketches with design decisions, and then create mid-fidelity wireframes in Figma. The screens will include the splash screen, onboarding screens, sign-up/login page, profile area, and user flow reflecting a key user goal. Finally, you will share your wireframes for feedback and make necessary adjustments.
 
-### What you learn:
+### You will learn more about:
 
 Through this process, you will learn the importance of Information Architecture in enhancing user experience and the different types of IA structures such as hierarchical, sequential, and flat structures. You will gain practical skills in conducting organising information, and creating Site Maps. Additionally, you will understand the differences between low-fidelity, mid-fidelity, and high-fidelity wireframes, and how to focus on user experience elements like navigation, content organisation, and interaction flow. By using Figma to create wireframes, you will develop practical design skills, and by conducting card sorting (optional), you will gain insights into user preferences to create more intuitive designs.
 

@@ -4,7 +4,7 @@
 
 Outline your research objectives, methods (user interview), participant recruitment strategy, and timeline. This involves understanding the context of the project, identifying what information is needed, and determining the best methods to gather this information. Furthermore, plan how to recruit participants who fit your target audience criteria and develop a timeline to ensure the research is completed.
 
-### What you learn:
+### You will learn more about:
 
 You will develop skills in planning and organizing research activities, which are pivotal for gathering reliable and relevant data. You will learn how to set clear research objectives that align with the project goals, and create a structured approach to participant recruitment. Additionally, you will gain experience in creating a detailed timeline to manage your research process effectively.
 
