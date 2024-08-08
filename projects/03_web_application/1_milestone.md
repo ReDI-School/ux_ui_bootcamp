@@ -45,11 +45,11 @@ After planning your project in the previous task, you now need to understand the
 
 ## Task 3: Design Proposal
 
-After understanding the users and analyzing competitors' products, you are ready to propose a solution that can be developed within the project timeframe, ensuring that it solves the priority problems.
+After understanding the users and analyzing competitors' products, you are ready to propose a solution that can be developed within the project timeframe, ensuring that it solves the priority problems. You can create the Design Proposal document in Figma. The document helps to explain or sell your project to a potential client. Include your findings from the first two tasks. The Proposal serves as a first step to clarify your design. In the next milestone you will further enhance it by setting the design and elaborating the prototype. For now, we are focusing on the basics: The Design Proposal.
 
 **Steps:**
 
-- Come up with multiple solution ideas. The ideas can be phrases or pen and paper sketches that represent solutions. Prioritize one.
+- Come up with multiple solution ideas for the product. The ideas can be phrases or pen and paper sketches that represent solutions. Prioritize one.
 - Design user flow diagrams and [information architecture](https://redi-school-1.gitbook.io/ux-ui-bootcamp/2.-project-mobile-application/milestone-2-information-architecture-and-mid-wireframes/information-architecture) (categories, labels, navigation).
 - Ensure that the proposal respects usability principles
 - Add basic voice and tone guide applied to the digital product.
