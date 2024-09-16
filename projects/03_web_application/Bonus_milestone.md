@@ -1,5 +1,7 @@
 # BONUS Milestone - Design Systems and Libraries
 
+> Bonus Milestones are optional. They are an extra challenge if you are finished and satisfied with the previous milestones of your project. 
+
 You dive into Design Systems and modify material design styles according to your design. 
 
 **You will learn more about:** 
