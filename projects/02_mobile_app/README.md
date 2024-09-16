@@ -5,7 +5,6 @@
 2. Project Summary
 3. Milestones & Deliverables
 4. Bonus Milestone
-5. Learning Objective
 
 ----------
 
@@ -68,6 +67,7 @@ By using Figma to create wireframes, you will develop practical design skills, a
 - UX Designers do not work alone. If possible, collaborate with peers to get feedback on your work. Different perspectives can help identify gaps or new insights.
 
 **Deliverables:**
+
 - Site Map in Figjam 
 - Mid-Fidelity Wireframes
 
@@ -88,14 +88,22 @@ Additionally, you will learn the importance of iterative design processes, refin
 - Treat milestone three as an opportunity for continuous learning and improvement. Reflect on your experiences, learn from mistakes, and seek feedback from peers and instructors to enhance your prototyping and usability testing skills.
 - UX Designers do not work alone. If possible, collaborate with peers to get feedback on your work. Different perspectives can help identify gaps or new insights.
 
-Deliverables:
+**Deliverables:**
+
 - Clickable Prototype
 - Usability Testing and Refinement
 
 **Milestone Detail: [Milestone 3](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/02_mobile_app/3_milestone.md)** 
 
 
-### 4. Bonus Milestone
+### 4. Bonus Milestone - Design a Custom Feature for User Engagement
 
+**What you will do:**
 
-### 5. Learning Objective
+In this bonus milestone, you will have the opportunity to design a custom feature aimed at enhancing user engagement within the meditation app. This feature could be anything from a daily reminder system, a progress tracker, or a social sharing option that allows users to share their meditation achievements with friends. The goal is to create a feature that encourages regular use and deepens the user's connection with the app.
+
+**You will learn more about:**
+
+You will develop skills in designing user-centered features that enhance engagement and retention. This milestone will help you understand how to think creatively and strategically about feature development, ensuring that the new functionality aligns with user needs and business goals. You will also gain experience in integrating new features into existing designs, considering how they impact the overall user experience.
+
+**Milestone Detail: [Bonus Milestone](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/02_mobile_app/bonus_milestone.md)** 

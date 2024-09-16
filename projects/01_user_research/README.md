@@ -34,7 +34,7 @@ Based on the qualitative data, create detailed user personas that represent your
 
 **Link to Milestone: [3_milestone.md](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/01_user_research/3_milestone.md)**
 
-### Bonus Milestone - To Be Defined
+### Bonus Milestone - Conduct a Competitive Analysis
 
 **Link to Milestone: [bonus_milestone.md](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/01_user_research/bonus_milestone.md)**
 
