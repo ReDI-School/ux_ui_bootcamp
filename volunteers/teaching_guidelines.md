@@ -1,30 +1,31 @@
 # Teaching Guidelines
 
+## Teaching Method: I Do, We Do, You Do
 
-### How to Recap
-We aim to start the session by reviewing the last week's concepts and milestone.  
+The "I Do, We Do, You Do" method is a teaching methdo designed to help students learn new concepts by first observing, then practicing with guidance, and finally working independently. 
 
+- **I Do:** The teacher demonstrates the task while explaining the steps and thought process out loud. This stage is all about modeling the correct way to approach the task, making sure to highlight key concepts and techniques.
+- **We Do:** The session owner walks the students through an activity. The students follow along (code or design along). This collaborative stage allows students to apply what they've seen with support, ask questions, and receive immediate feedback.
+- **You Do:** Students work independently on the task. This stage allows them to practice the skill on their own.
 
-### How to Introduce Theory
+**Example: Designing a User Flow**
 
-#### How little is enough? 
-As educators, we want to give as little input and as little theory as possible. Ask yourself: how little is enough? We try to give only the necessary input so that the students can grasp a concept on a level that is relevant to them. As educators, we try to get off the stage and stop talking. We want to put the student and their coding practice in the center. Ask yourself: How little is enough?
-
-#### Context before content
-We experienced that explaining why a concept is important helps a lot in understanding what the concept is about. Why should you learn this concept? Try to give the context. Maybe explain where you use it in your daily work life. Or explain how this concept can help solve a bigger problem.
-
-#### Practice over Theory
-We believe that learning how to code is best learned through coding. We aim to move fast from the theoretical to the practical part (How to Practice) to discuss the theoretical concepts in live code. 
+- **I Do:** The teacher explains what a user flow is and why it’s useful in UX design. They show how to create a simple user flow for a login process in Figma, explaining each step like setting the starting point and mapping user actions. Alternatively to showing the User flow in Figma, the teacher can also use the provided slide deck as support.
+- **We Do:** Next, the session owner walks the students through creating the starting point of a user flow. For example, for a basic e-commerce checkout process. The teacher asks guiding questions like, "What should the user see after clicking 'Add to Cart'?" or "What decisions does the user make at the payment step?" The class works together to map out the steps, with the teacher providing feedback and making adjustments as needed.
+- **You Do:** Finally, students are tasked with creating a user flow for a different scenario, such as booking a ticket on a travel website. They work individually but can refer to the examples and ask for help if needed. After completing their user flows, students share their work for peer feedback and teacher review.
 
 
-### How to Practice
+## Tips and Tricks
 
-#### I Do, We Do, You Do
-We recommend the concept _I do, We do, You do_ for live exercises in class. That means you start by showing one example (I do). Secondly, you ask the class to code along a second example (We do). Thirdly, you ask the class to try out one example by themselves (you do).
-- **I do:** In this phase, the teacher models how to complete a task or solve a problem. The teacher may use think-aloud, demonstrations, or other methods to show the students how to do the task. The preferred teaching technique for _I DO_ is Live Coding. It involves walking through each line of code and physically writing each line to show how it is written. This is particularly good for new students, as it’s good to see in practice how the code is written, and it takes away some of the "Code Scare" effects when writing code for the first time. This is good when you involve the students in the process by acting as the “hands,” and they are the “brain” telling you what to type.
-- **We do:** In this phase, the teacher and the students work together to complete the same task or solve the same problem. The teacher provides support and guidance as needed, but the students actively participate in the task.
-- **You do:** In this phase, the students work independently to complete a similar task or solve a similar problem. The teacher provides feedback and support as needed, but the students are responsible for completing the task independently.
-The goal of the “I do, we do, you do” strategy is to gradually shift the responsibility for learning from the teacher to the students. Students can build their skills and confidence over time by starting with explicit instruction and modeling, moving to guided practice, and finally to independent practice.
+- **Context before content** - We experienced that explaining why a concept is important helps a lot in understanding what the concept is about. Why should you learn this concept? Try to give the context. Maybe explain where you use it in your daily work life. Or explain how this concept can help to solve a bigger problem
+- **Engage with Students:** Ask questions to check understanding. Use their names and keep the tone friendly and encouraging.
+- **Be Prepared, but Flexible:** Have a plan but adapt based on student needs.
+- **Feedback is Key:** Provide constructive feedback to help students improve. Celebrate small wins to keep motivation high.
 
-#### Hand out Broken Applications/Code
-A good approach to make students more able to get programming concepts is to let them have problems, be stuck, and have to look for solutions on the internet. Just let them search for a way to repair something.
+
+## Further Resources
+
+- Watch [this video](https://www.loom.com/share/0e62b4f436ab4fdd9a803d0025a2ebd2?sid=957223b9-0fca-4e70-90b4-9060f2934f2f) on how to run the Input Session. 
+- [These slides](https://docs.google.com/presentation/d/11G-oHHgHf-OqEHgDaUBUmXPjXKflli1yjPV37h1lWeo/edit?usp=sharing) explain the Input Session and how to run it. 
+- You can find the description we share with students in [Gitbook](https://redi-school-1.gitbook.io/ux-ui-bootcamp/study-manual/weekly-sessions/input-session).
+- Ice Breakers and Energizers - Do you want to start the session with an energizer? Have a look at [Ice Breakers](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/volunteers/icebreakers.md).
