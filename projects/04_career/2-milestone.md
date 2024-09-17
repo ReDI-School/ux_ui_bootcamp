@@ -1,6 +1,6 @@
 ## Milestone 2
 ### What you will do:
-You will work on your personal branding, CV, LinkedIn, and portfolio. You will receive feedback from a mentor to improve your online presence.
+You will work on your personal branding, CV, LinkedIn, and portfolio. You will receive feedback from a mentor on the delicerables!
 
 ### You will learn more about:
 - How to establish a strong online presence.
