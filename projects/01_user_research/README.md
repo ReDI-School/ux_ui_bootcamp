@@ -43,3 +43,7 @@ Based on the qualitative data, create detailed user personas that represent your
 
 - [Research Planning](https://redi-school-1.gitbook.io/ux-ui-bootcamp/1.-project/milestone-1-research-planning)
 - [User Research](https://redi-school-1.gitbook.io/ux-ui-bootcamp/1.-project/milestone-2-user-research)
+
+### 4. Upload your Full Project on Google Classroom
+
+At the end of the project, you will submit your completed project on Google Classroom. To hand in your project, it is required to complete the Deliverables of milestones 1 to 3. The BONUS Milestone is optional.
