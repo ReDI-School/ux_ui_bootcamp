@@ -20,7 +20,7 @@ As a coach, you join the [Coaching Session](https://github.com/ReDI-School/ux_ui
 **After the Session:**
 
 1. Track the students' progress in your breakout room in the Students & Project Milestones tab (2nd tab of Core Sheet).
-2. Track student attendance for your team (link to Attendance Tracker pinned in Slack).
+   
 
 ## Review Guide 
 There are three points we think are essential to good feedback in ReDI.
