@@ -15,6 +15,7 @@ You will develop skills in planning and organizing research activities, which ar
 - Create a realistic timeline, allowing enough time for each stage of the research process.
 
 ### Task 1:
+- Get started in Figma. You can use [this template]( https://www.figma.com/community/file/1232324383363570092/ux-research-plan-template) as a starting point.
 - Define your research objective
 - Define what research method you will use (user interviews)
 - Create a participant recruitment strategy. Make sure the participant profiles fit your target audience criteria.
