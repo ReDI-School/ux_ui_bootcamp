@@ -8,7 +8,7 @@ As Q&A Guide, you run the [Q&A Session](https://github.com/ReDI-School/ux_ui_boo
 
 **Before the Session:**
 
-1. In Slack, a Q&A Thread is posted automatically on Wednesday evening (done by ReDI).
+1. In Slack, a Q&A Thread is posted automatically on Wednesday (done by ReDI).
 2. Check out the questions in the Q&A thread. Think about a potential solution or explanation for them.
 3. Ask students for further clarification if posted questions are unclear.
 4. Ask other teachers for support if you don't know how to solve it. 
@@ -16,9 +16,10 @@ As Q&A Guide, you run the [Q&A Session](https://github.com/ReDI-School/ux_ui_boo
 **In the Session:**
 
 1. Join the Zoom Call 5 minutes before the Session starts. 
-2. Claim Host (Check out the pinned Guide in Slack on how to do so).
-3. Wait 3-4 minutes to give everyone a chance to arrive and kick-off.
-4. Answer Questions - Mention a question posted in Slack. Provide an answer or walk the students through the solution. You can ask if the student joined to check if the answer clarified their question. Most likely further questions will be brought to the Q&A session. We aim to answer first the questions from Slack and then open the round for more questions in the round. 
+2. Claim Host using the host key (Check out the pinned Guide in Slack on how to do so).
+3. Start the Zoom recording
+4. Wait 3-4 minutes to give everyone a chance to arrive and kick-off.
+5. Answer Questions - Mention a question posted in Slack. Provide an answer or walk the students through the solution. You can ask if the student joined to check if the answer clarified their question. Most likely further questions will be brought to the Q&A session. We aim to answer first the questions from Slack and then open the round for more questions in the round. 
 
 **After the Session:**
 
