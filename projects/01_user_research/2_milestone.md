@@ -16,6 +16,13 @@ You will develop skills in qualitative research, including conducting interviews
 - Transcribe interviews accurately and organise your data systematically. You can use video transcriptors or audio transcriptors available for free online.
 - Look for patterns and recurring themes to gain deeper insights into user behaviours and needs.
 
+### Task:
+- Create a detailed interview script.
+- Get all the necessary consent forms.
+- Set the tools you are going to use (Zoom / Google Meet / Calendar / Otter.ai or the tool of your choice)
+- Conduct the interview with the recruited participants.
+- Analyse the responses using thematic analysis.
+
 ### Deliverables:
 
 - 3-5 User Interviews, transcribed and coded
