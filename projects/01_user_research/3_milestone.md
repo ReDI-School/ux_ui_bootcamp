@@ -15,6 +15,12 @@ You will learn how to translate qualitative data into actionable insights throug
 - Map out the user journey comprehensively, including all steps, touchpoints, and emotions.
 - Look for opportunities to improve the user experience by addressing pain points and enhancing positive moments.
 
+### Task:
+- Create at least 2 detailed and realistic personas based on the interviews insights. 
+You can use this [Figjam Template](https://www.figma.com/templates/user-persona-template/)
+- Map out the user journey for at least 2 personas. 
+You can copy and use this [Figjam Template](https://www.figma.com/board/KSkIA1FET9rcxeRdQaE9ck/User-Journey-Map-Template?node-id=0-1&node-type=canvas&t=8UNm2azRFRZ1zb9H-0)
+
 ### Deliverables:
 
 - User Personas
