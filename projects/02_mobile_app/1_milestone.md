@@ -28,11 +28,13 @@ You will continue to develop analytical skills and critical thinking by internal
   - **Needs or Goals:** Identify any needs or goals your participants express. For instance, a user might say,
   - **Frustrations:** Document any frustrations participants voice. These frustrations can help you refine your project and improve user satisfaction.
 
-To document your findings you can either copy/paste on another document what you consider meaningful to determine the needs and goals or eventual paint points to leverage, or you can just highlight the important parts.
+To document your findings you can highlight the important parts as you did in the Projcet 1 for Thematic Analysis or copy/paste on another document what you consider meaningful to determine the needs and goals or eventual paint points to leverage.
 
-2. Sort out your data by answering the 7 questions of the Empathy Map canvas. You can just write the question on a paper, google sheet or even better by creating a free account on Miro or by using FigJam and recreate the canvas template. Keep in mind that this is an exercise with dummy content for you to practise, so if your data analysis does not allow you to answer all the questions, it’s totally fine.
+2. Sort out your data by answering the 7 questions of the Empathy Map canvas. Feel free to copy and use [this Figjam template](https://www.figma.com/board/buN7DHI677hs1KGe8tJukt/Empathy-Map-Example?node-id=0-1&node-type=canvas&t=P3xVB6aVpdCIQrvw-0). You can also just write the questions on paper/google sheet or recreate the canvas template in Miro or Figma.
 
-3. At the end of this deliverable, you should have clear what are the behaviour/attitudes, needs or goals and frustrations or paint points but, you may also be able to uncover emotions.
+Keep in mind that this is an exercise with dummy content for you to practise, so if your data analysis does not allow you to answer all the questions, it’s totally fine.
+
+4. At the end of this deliverable, you should have clear what are the behaviour/attitudes, needs or goals and frustrations or paint points but, you may also be able to uncover emotions.
 
 **Resources:** [Empathy Map in Gitbook](https://redi-school-1.gitbook.io/ux-ui-bootcamp/empathy-map)
 
@@ -136,7 +138,8 @@ We are now in the “Effortless Navigation” requirement and it’s time to cre
 Suggestions:
 - Take a look at the app meditations of the competitors that the users interviewed mentioned, navigate them and see how your user flow is organised.
 - As an entry point for your “User Flow” you can use the splash screen, or skip it and use the sign up/login as entry point.
-- What comes after the entry point, is the path that the user needs to take in order to achieve its goal, the task that he has to perform which is made of several steps. It can be a straight happy path. It can be, or a more elaborate path if, for example, you want to include more than one goal (registration, changing meditation, adding meditation and so on. If you opt for a “User Flow” that displays different paths and so different tasks, remember that when you will have to create the wireframes out of it, specifically for the prototyping stage, you may open to break it down so as to have separate tasks.
+- What comes after the entry point, is the path that the user needs to take in order to achieve its goal, the task that he has to perform which is made of several steps. It can be a straight happy path or a more elaborate path if, for example, you want to include more than one goal (registration, changing meditation, adding meditation and so on.
+If you opt for a “User Flow” that displays different paths and so different tasks, remember that when you will have to create the wireframes out of it, specifically for the prototyping stage, you may open to break it down so as to have separate tasks.
 - To create your “User Flows” you can choose between Figma, FigmaJam or Miro or well, even paper and pencil if you have no other means.
 
 **Resources:** 
