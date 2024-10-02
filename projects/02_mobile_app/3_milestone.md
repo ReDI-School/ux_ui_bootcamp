@@ -23,8 +23,10 @@ You will learn how to translate mid-fidelity wireframes into interactive prototy
 ### Task 1 - Prototyping
 
 Instructions:
-1. Open the Figma file where you have your mid-fidelity wireframes. You should follow the user flow or the user flows that you have previously created. 
-2. Turn your mid-fidelity wireframes into clickable prototypes. If you need help, you can rely on the Figma tutorial you have followed, here is the link to the prototyping chapter:
+1. Open the Figma file where you have your mid-fidelity wireframes.
+2. You should follow the user flow or the user flows that you have previously created. 
+3. Turn your mid-fidelity wireframes into clickable prototypes.
+If you need help, you can rely on the Figma tutorial you have followed, here is the link to the prototyping chapter:
   - https://help.figma.com/hc/en-us/articles/4405337257751--Beginner-3-Build-prototypes
   - Here there are other two links, of which the last one uses a mid fidelity wireframe:
     - https://www.youtube.com/watch?v=-sAAa-CCOcg
