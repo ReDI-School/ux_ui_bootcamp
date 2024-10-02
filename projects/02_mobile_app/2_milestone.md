@@ -24,7 +24,8 @@ Through this process, you will learn the importance of Information Architecture 
 Instructions:
 1. Review your User Flow to keep in mind the goals your user needs to achieve
 2. Take inspiration from your competitors (Headspace, Calm, and Insight Timer) to understand how they have organised the navigation of your mobile application.
-3. Create the Site Map. Start with the main page, from there strace the different branches as seen in the examples. As a tool use FigJam. Remember to keep the work accessible, so share the link with your teacher.
+3. Copy [a figjam template](https://www.figma.com/community/file/1277011523626912658) or create a new one and create a sitemap for your app.
+Start with the main page, from there strace the different branches as seen in the examples. Remember to keep the work accessible, so share the link with your teacher.
 
 ### Task 2 - Wireframes
 
