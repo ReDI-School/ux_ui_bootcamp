@@ -28,11 +28,13 @@ After planning your project in the previous task, you now need to understand the
 
 **Steps:**
 
-1. Analyse dashboards from competitors. Perform a competitor analysis, where you identify user experience aspects of a functionality of these products. Follow the steps to conduct a Competitor Analysis in our Gitbook: [Competitor Analysis](https://redi-school-1.gitbook.io/ux-ui-bootcamp/3.-project-dashboard/milestone-1-planning-competitor-analysis-design-proposal/competitor-analysis). 
+1. Analyse dashboards from competitors. Perform a competitor analysis, where you identify user experience aspects of a functionality of these products. Follow the steps to conduct a Competitor Analysis in our Gitbook: [Competitor Analysis](https://redi-school-1.gitbook.io/ux-ui-bootcamp/3.-project-dashboard/milestone-1-planning-competitor-analysis-design-proposal/competitor-analysis).
+   
     1.Define your Goals: the purpose of conducting a competitor analysis
     2. Identify Competitors: Who is currently trying to solve this problem? Identify 3-5 competitors. 
     3. Define your Comparison Criteria: create a short list of comparison criteria. You can add more when needed.
-    4. Gather Data: Examine competitors’ designs, product interfaces, and features to gather information. 
+    4. Gather Data: Examine competitors’ designs, product interfaces, and features to gather information.
+       
 To help you get started answer these questions: 
 - How are the competitors trying to solve the problem? 
 - What are their main differentiator or unique value-adds for their business and products? 
