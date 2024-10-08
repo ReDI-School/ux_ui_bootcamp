@@ -28,15 +28,22 @@ After planning your project in the previous task, you now need to understand the
 
 **Steps:**
 
-1. Analyse dashboards from competitors. Perform a competitor analysis, where you identify user experience aspects of a functionality of these products. Read about how to conduct a Competitor Analysis in our Gitbook: [Competitor Analysis](https://redi-school-1.gitbook.io/ux-ui-bootcamp/3.-project-dashboard/milestone-1-planning-competitor-analysis-design-proposal/competitor-analysis). 
-    1. Define your Comparison Criteria: Before you start, create a short list of comparison criteria. You can add more when needed.
+1. Analyse dashboards from competitors. Perform a competitor analysis, where you identify user experience aspects of a functionality of these products. Follow the steps to conduct a Competitor Analysis in our Gitbook: [Competitor Analysis](https://redi-school-1.gitbook.io/ux-ui-bootcamp/3.-project-dashboard/milestone-1-planning-competitor-analysis-design-proposal/competitor-analysis). 
+    1.Define your Goals: the purpose of conducting a competitor analysis
     2. Identify Competitors: Who is currently trying to solve this problem? Identify 3-5 competitors. 
-    3. Gather Data: Examine competitors’ designs, product interfaces, and features to gather information. Answer: How are the competitors trying to solve the problem? What are their main differentiator or unique value-adds for their business and products? What IA has been chosen? What kind of interactions help to drive the feature? What UI elements complement this goal?
-    4. Analyze Design Elements: Evaluate how the competitors’ design choices influence usability, functionality, and user satisfaction. Copy competitor designs into your analysis overview.
-    5. Document User Flows: Map out how tasks are completed within competitor apps to identify pain points and opportunities for improvement.
-    6. Use FigJam to collect, organize, and present your findings. You can also present your findings using Google Slides.
+    3. Define your Comparison Criteria: create a short list of comparison criteria. You can add more when needed.
+    4. Gather Data: Examine competitors’ designs, product interfaces, and features to gather information. 
+To help you get started answer these questions: 
+- How are the competitors trying to solve the problem? 
+- What are their main differentiator or unique value-adds for their business and products? 
+- What IA has been chosen? 
+- What kind of interactions help to drive the feature? 
+- What UI elements complement this goal?
+    5. Analyze Design Elements: Evaluate how the competitors’ design choices influence usability, functionality, and user satisfaction. Copy competitor designs into your analysis overview.
+    6. Document User Flows: Map out how tasks are completed within competitor apps to identify pain points and opportunities for improvement.
+    7. Use FigJam to collect, organize, and present your findings. You can also present your findings using Google Slides.
 
-2. Perform a [desk research](https://redi-school-1.gitbook.io/ux-ui-bootcamp/3.-project-dashboard/milestone-1-planning-competitor-analysis-design-proposal/desk-research) on user pains in the category you have chosen. Add the pain points to your FigJam project file. 
+3. Perform a [desk research](https://redi-school-1.gitbook.io/ux-ui-bootcamp/3.-project-dashboard/milestone-1-planning-competitor-analysis-design-proposal/desk-research) on user pains in the category you have chosen. Add the pain points to your FigJam project file. 
 
 **Deliverables:**
 
