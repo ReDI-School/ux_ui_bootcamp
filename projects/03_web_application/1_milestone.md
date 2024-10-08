@@ -39,6 +39,7 @@ To help you get started answer these questions:
 - What IA has been chosen? 
 - What kind of interactions help to drive the feature? 
 - What UI elements complement this goal?
+  
     5. Analyze Design Elements: Evaluate how the competitors’ design choices influence usability, functionality, and user satisfaction. Copy competitor designs into your analysis overview.
     6. Document User Flows: Map out how tasks are completed within competitor apps to identify pain points and opportunities for improvement.
     7. Use FigJam to collect, organize, and present your findings. You can also present your findings using Google Slides.
