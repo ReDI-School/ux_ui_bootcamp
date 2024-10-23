@@ -52,4 +52,4 @@ This documentation will be essential for your presentation at the end of the pro
 **Resources:**
 
 - [Usability Test](https://redi-school-1.gitbook.io/ux-ui-bootcamp/3.-project-dashboard/milestone-3-usability-test-and-documentation)
-- [Design documentaion and Case Study]([https://redi-school-1.gitbook.io/ux-ui-bootcamp/4.-project-career/milestone-2-establish-online-presence/portfolio-step-by-step-guide](https://redi-school-1.gitbook.io/ux-ui-bootcamp/3.-project-dashboard/milestone-3-usability-test-and-documentation/design-documentation-and-case-study))
+- [Design documentaion and Case Study](https://redi-school-1.gitbook.io/ux-ui-bootcamp/3.-project-dashboard/milestone-3-usability-test-and-documentation/design-documentation-and-case-study)
