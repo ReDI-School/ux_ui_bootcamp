@@ -31,7 +31,7 @@ You will continue to develop analytical skills and critical thinking by internal
 To document your findings you can highlight the important parts as you did in the Projcet 1 for Thematic Analysis or copy/paste on another document what you consider meaningful to determine the needs and goals or eventual paint points to leverage.
 
 2. Sort out your data by answering the 7 questions of the Empathy Map canvas.
-Feel free to copy and use [this Figjam template](https://www.figma.com/board/buN7DHI677hs1KGe8tJukt/Empathy-Map-Example?node-id=0-1&node-type=canvas&t=P3xVB6aVpdCIQrvw-0). You can also just write the questions on paper/google sheet or recreate the canvas template in Miro or Figma.
+Feel free to copy and use [this Figjam template](https://www.figma.com/board/6etvslmZBTNliOkoIPNYTc/Empathy-Map---Example---MAKE-A-COPY?node-id=0-1&node-type=canvas&t=5j8vSSqV5eEyDzd6-0). You can also just write the questions on paper/google sheet or recreate the canvas template in Miro or Figma.
 
 Keep in mind that this is an exercise with dummy content for you to practise, so if your data analysis does not allow you to answer all the questions, it’s totally fine.
 
