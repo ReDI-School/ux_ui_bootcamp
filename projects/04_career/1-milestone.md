@@ -10,31 +10,28 @@ Once you have a direction (the job profile you aspire to) and are aware of your 
 - How to search for jobs
 - Personal Branding
 
-### Task 1:
-- **Carry Out a Personal SWOT Analysis**
-  
-- **Resources**: 
-  - [SWOT Analysis](https://redi-school-1.gitbook.io/ux-ui-bootcamp/4.-project-career/milestone-1-career-orientation/careers-in-ux-ui-design/swot-analysis)
+## Task 1: Create Your Professional Development Roadmap on Miro
 
-### Task 2:
-- **Create your Professional Development Roadmap**:
-  1. Identify Job Profiles & Requirements, Categorize the Skills Needed: gather and analyze at least 5 job listings for the roles you are interested in. You should look for common requirements and skills listed in these postings.
-  2. Assess Current Skills Level: The template provided will automatically copy all the skills listed in sheet 1.a to sheet 2. Now that you have an overview of the skills needed, it is time to run a self-assessment on each of the required skills. You can do this in column B for the technical skills and column F for the soft skills.
-  3. Set specific goals: Use sheet 3 to organize your action points in a timeline divided into short, medium, and long-term goals.
+1. Follow the Loom instructions to set up your workspace:
+   - a: Create an account on [Miro](https://miro.com).
+   - b: Create a new Miro board.
+   - c: [Upload this template] (https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/04_career/Miro%20Template%20for%20Exercise%2010)
+   - d: work using the template and the Gitbook resources.
+2.  **Create your Professional Development Roadmap on Miro**:
+   - Dentify Job Profiles & Requirements, Categorize the Skills Needed: gather and analyze at least 5 job listings for the roles you are interested in. You should look for common requirements and skills listed in these postings.
+  - Assess Current Skills Level: The template provided will automatically copy all the skills listed in sheet 1.a to sheet 2. Now that you have an overview of the skills needed, it is time to run a self-assessment on each of the required skills. You can do this in column B for the technical skills and column F for the soft skills.
+  - Carry out a SWOT Analysis
+  - Set specific goals: Use sheet 3 to organize your action points in a timeline divided into short, medium, and long-term goals.
+  - Reflect on your values and create your personal brand statement
 
 - **Resources**: 
+  - Loom Video 
+  - [Miro template] (https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/04_career/Miro%20Template%20for%20Exercise%2010)
   - [Career Development Plan](https://redi-school-1.gitbook.io/ux-ui-bootcamp/4.-project-career/milestone-1-career-orientation/careers-in-ux-ui-design/career-development-plan)
+  - [SWOT Analysis](https://redi-school-1.gitbook.io/ux-ui-bootcamp/4.-project-career/milestone-1-career-orientation/careers-in-ux-ui-design/swot-analysis)
   - Career Development Plan Work Sheet for students - on Google Classroom (use this template to complete the exercise)
-  - Pre-filled Career Development Plan Sheet (use this sheet for reference of the expected final result) - on Google Classroom
-
-### Task 3:
-- **Reflect on your values and create your personal brand statement**
-
-- **Resources**: 
   - [Personal Brand Statement](https://redi-school-1.gitbook.io/ux-ui-bootcamp/4.-project-career/milestone-1-career-orientation/personal-branding/personal-brand-statement)
 
 ### Deliverables:
-- Carry out a personal SWOT analysis.
-- Document the job profiles you are interested in. Make a self-assessment per job profile of which skills are required that you currently don’t have and create a personalized development plan.
-- Write your personal brand statement.
-- With your mentor, review all deliverables and develop your roadmap.
+- Setup and complete the board on Miro
+- With your mentor, review all deliverables and develop your roadmap further.
