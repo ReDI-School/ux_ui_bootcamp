@@ -12,7 +12,8 @@ Once you have a direction (the job profile you aspire to) and are aware of your 
 
 ### Task 1: Set up Your Board on Miro
 
-Follow the Loom instructions to set up your workspace:
+Follow the Steps to set up your workspace:
+- Watch this [Loom Instructions Video](https://www.loom.com/share/f18a4f026ca041f1a9b6c12091312fa6?sid=b7233075-32d2-42d8-96fa-33e77a4dfb8c)
 - Create an account on [Miro](https://miro.com).
 - Create a new Miro board.
 - [Upload this template to the board](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/04_career/Miro%20Template%20for%20Exercise%201.pdf) and lock it 
@@ -27,7 +28,8 @@ Following the steps listed both the template itself and here below:
 - If you are unsure about how to go about using the board, you can check [this example of expected final result](https://miro.com/app/board/uXjVLMH9QTE=/?share_link_id=290789561693)
 
 ### Resources: 
-  - Setup: Loom Video / [Miro template](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/04_career/Miro%20Template%20for%20Exercise%201) / [Example of expected final result](https://miro.com/app/board/uXjVLMH9QTE=/?share_link_id=290789561693)
+- Setup: [Loom Video](https://www.loom.com/share/f18a4f026ca041f1a9b6c12091312fa6?sid=b7233075-32d2-42d8-96fa-33e77a4dfb8c)
+- [Miro template](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/04_career/Miro%20Template%20for%20Exercise%201.pdf) / [Example of expected final result](https://miro.com/app/board/uXjVLMH9QTE=/?share_link_id=290789561693)
   - Resources for exercises: 
       -  [Career Development Plan](https://redi-school-1.gitbook.io/ux-ui-bootcamp/4.-project-career/milestone-1-career-orientation/careers-in-ux-ui-design/career-development-plan)
      - [SWOT Analysis](https://redi-school-1.gitbook.io/ux-ui-bootcamp/4.-project-career/milestone-1-career-orientation/careers-in-ux-ui-design/swot-analysis)
