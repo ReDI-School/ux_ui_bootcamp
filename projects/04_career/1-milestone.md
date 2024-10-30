@@ -15,7 +15,7 @@ Once you have a direction (the job profile you aspire to) and are aware of your 
 Follow the Loom instructions to set up your workspace:
 - Create an account on [Miro](https://miro.com).
 - Create a new Miro board.
-- [Upload this template to the board](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/04_career/Miro%20Template%20for%20Exercise%201) and lock it 
+- [Upload this template to the board](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/04_career/Miro%20Template%20for%20Exercise%201.pdf) and lock it 
 
 ### Task 2: Work at your Professional Development Roadmap on Miro
 Following the steps listed both the template itself and here below:
