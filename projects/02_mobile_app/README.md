@@ -47,7 +47,7 @@ Ultimately you will propose task analysis steps and you will create a user flow.
 **Deliverables:**
 
 1. Analysis, Empathy Map
-2. Task Analysis Template & User Flows
+2. Task Analysis & User Flows _(including Splash Screen, Onboarding, Sign-up/Login, Exploration (specific task of your choice based on data analysis))_
 
 **Milestone Detail: [Milestone 1](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/02_mobile_app/1_milestone.md)** 
 
@@ -69,7 +69,7 @@ By using Figma to create wireframes, you will develop practical design skills, a
 **Deliverables:**
 
 - Site Map in Figjam 
-- Mid-Fidelity Wireframes
+- Mid-Fidelity Wireframes _(Wireframes for the screens and flows specified in Milestone 1)_
 
 **Milestone Detail: [Milestone 2](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/02_mobile_app/2_milestone.md)** 
 
@@ -91,7 +91,7 @@ Additionally, you will learn the importance of iterative design processes, refin
 **Deliverables:**
 
 - Clickable Prototype
-- Usability Testing and Refinement
+- Usability Testing and Refinement _(Test Plan, Test Script, Main insights, Usability Analysis Report, and the demonstration of incorporation of the insights to their design (what and how they improved in the wireframes and flows based on the findings))_
 
 **Milestone Detail: [Milestone 3](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/02_mobile_app/3_milestone.md)** 
 
