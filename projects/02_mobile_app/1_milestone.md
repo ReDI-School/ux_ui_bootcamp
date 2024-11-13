@@ -18,7 +18,7 @@ You will continue to develop analytical skills and critical thinking by internal
 ### Deliverables:
 
 1. Empathy Map
-2. Task Analysis & User Flows
+2. Task Analysis & User Flows _(including Splash Screen, Onboarding, Sign-up/Login, Exploration (specific task of your choice based on data analysis))_
 
 
 ### Task 1 - Empathy Map
@@ -134,7 +134,7 @@ Based on the information that you have extracted so far, you should have a bette
 
 **3. Create the User Flow**
 
-We are now in the “Effortless Navigation” requirement and it’s time to create the “User Flow”
+We are now in the “Effortless Navigation” requirement and it’s time to create the “User Flow”. The minimum amount of User Flows should be: Onboarding, sign up (different ways of signups/forgot the password and whatever they think is relevant), maybe a small flow from the home screen to the profile area with changing one of the data/configuration, and the specific task of their choice (a specific task of your choice based on data analysis): "A way to navigate in an effortless manner through app’s features and content.”
 
 Suggestions:
 - Take a look at the app meditations of the competitors that the users interviewed mentioned, navigate them and see how your user flow is organised.
