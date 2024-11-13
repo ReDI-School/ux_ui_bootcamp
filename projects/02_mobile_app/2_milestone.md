@@ -17,7 +17,7 @@ Through this process, you will learn the importance of Information Architecture 
 ### Deliverables:
 
 - Site Map in Figjam 
-- Mid-Fidelity Wireframes
+- Mid-Fidelity Wireframes _(Wireframes for the screens and flows specified in [Milestone 1](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/02_mobile_app/1_milestone.md))_
 
 ### Task 1 - Site Map
 
