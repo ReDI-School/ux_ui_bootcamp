@@ -16,11 +16,11 @@ This exercise project focuses on analysis, the importance of understanding user 
 
 
 ## 2. Project Summary
-You will be put in the following scenario: Thomas is a young entrepreneur who is in a hurry to go live as quickly as possible with his meditation mobile app project. He has already conducted market research, competitive analysis and qualitative research and he decided to proceed with the creation of a meditation app. Unfortunately, your previous colleague left the project without completing the qualitative research, in fact he didn’t do the qualitative analysis and now you have to work with what he left and the requirements set by the founder, which are:
+You will be put in the following scenario: Thomas is a young entrepreneur in a hurry to go live as quickly as possible with his meditation mobile app project. He has already conducted market research, competitive analysis, and qualitative research, and he decided to create a meditation app. Unfortunately, your previous colleague left the project without completing the qualitative research, in fact, he didn’t do the qualitative analysis, and now you have to work with what he left and the requirements set by the founder, which are:
 
-1. Splash Screen: A soothing splash screen greeting users, possibly decorated with a relaxing image, a peaceful mantra. Similar to a tranquil introduction, a splash screen establishes the mood as users commence your meditation journey. Investigate existing meditation apps for motivating splash screen models. 
+1. Splash Screen: A soothing splash screen greeting users, possibly decorated with a relaxing image or a peaceful mantra. Similar to a tranquil introduction, a splash screen establishes the mood as users commence your meditation journey. Investigate existing meditation apps for motivating splash screen models. 
 2. Onboarding flow: An engaging onboarding procedure intended to familiarize users with the app’s advantages and offer guidance on initiating use. No more than 3 screens.
-3. Sing up - Login: Human-centric sign-up and login features allowing users to enter and securely keep their personal information. 
+3. Sign up - Login: Human-centric sign-up and login features allowing users to enter and securely keep their personal information. 
 4. Profile area: A management section providing users access to their profile data and configurations. 
 5. Effortless Exploration (specific task of your choice based on data analysis): A way to navigate in an effortless manner through app’s features and content.”
    
@@ -31,7 +31,7 @@ Following this, you will create mid-fidelity wireframes and a prototype, which w
 
 ### 1. Milestone - Develop an Empathy Map, a Task Analysis and User Flows
 
-**What you will do:** You will analyse the answer of the user interviews and extract meaningful insights related to behaviours, attitudes, needs, goals, and frustrations. You will then Identify and highlight key phrases or sentences that indicate user motivations, preferences, and challenges
+**What you will do:** You will analyze the answers to the user interviews and extract meaningful insights related to behaviors, attitudes, needs, goals, and frustrations. You will then Identify and highlight key phrases or sentences that indicate user motivations, preferences, and challenges.
 You will then create an Empathy Map and fill out a Task Analysis template created to give them a facilitation.
 Ultimately you will propose task analysis steps and you will create a user flow.
 
