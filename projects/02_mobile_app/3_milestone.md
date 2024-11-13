@@ -18,7 +18,7 @@ You will learn how to translate mid-fidelity wireframes into interactive prototy
 ### Deliverables:
 
 1. Clickable Prototype
-2. Usability Testing and Refinement 
+2. Usability Testing and Refinement _(Test Plan, Test Script, Main insights, Usability Analysis Report, and the demonstration of incorporation of the insights to their design (what and how they improved in the wireframes and flows based on the findings))_
 
 ### Task 1 - Prototyping
 
@@ -35,6 +35,7 @@ If you need help, you can rely on the Figma tutorial you have followed, here is 
 ### Task 2 - Usability Testing and Refining
 
 Instructions:
+
 1. Prepare Usability Testing ([Review How to perform Usability Testing](https://redi-school-1.gitbook.io/ux-ui-bootcamp/usability-test))
   - Decide the tasks to test
   - Prepare the test plan
@@ -53,7 +54,6 @@ Instructions:
     - Severity: The Nielsen value
     - Recommendation: How to solve the problem
 <img width="612" alt="Task - Observation - Severity - Recommendation Overview" src="https://github.com/ReDI-School/ux_ui_bootcamp/assets/51905839/808ba549-1a7a-4f99-b999-207ddb3dde8f">
-
 4. Refine Mid-fidelity Wireframes: After you have completed the “Usability Test”, refine your Mid fidelity Wireframes (do not delete the previous version)
 5. Create the High Fidelity Wireframes including:
   - The splash screen
