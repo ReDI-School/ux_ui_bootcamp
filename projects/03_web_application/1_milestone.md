@@ -14,7 +14,7 @@ competitor analysis, and finally create the first design proposal for your dashb
 
 **Steps:**
 
-1. Choose a product category from the three proposed areas [Marketing, Sports and Health, Finance](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/03_web_application/README.md)
+1. Choose a product category from the three proposed areas [Marketing, Sports and Health, Finance](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/03_web_application/README.md) for which you would like to create a dashboard. You can use the mentioned examples as inspiration, but the goal is to create your own. 
 2.  Write a brief Project Plan outlining the project's overall scope, including a voice and tone guide and potential deliverables. Develop a detailed work plan that lists specific tasks to be completed during the project. You don't need to dive deep into the voice and tone guide. They will be covered later. What we encourage you to do in this step is to add a very basic voice and tone guide. Here you can find more resources for voice and tone guide: [Style Guide](https://redi-school-1.gitbook.io/ux-ui-bootcamp/3.-project-dashboard/milestone-2-design-and-prototyping/style-guide#key-components-of-a-style-guide).
 3. Write down which skills you want to strengthen during the project to define the time you will spend in each stage. For example, if you want to strengthen your prototyping and UI design skills, plan a brief analysis and a strong focus on visual exploration from the beginning.
 
