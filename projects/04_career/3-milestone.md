@@ -12,7 +12,7 @@ In Milestone #3 you will complete a case study and participate in a mock tech in
 - Receive feedback for your design interview to help you prepare for future interviews!
 
 
-## Task 1: Portfolio Review
+## Task 1: Portfolio Presentation
 
 **Objective**: Prepare a brief presentation (10 minutes max in total) of two projects from your portfolio that best showcase your UX/UI design skills, thought process, and impact. During the interview, you will walk the interviewer through these projects, highlighting key aspects of each, including problem-solving, design decisions, and outcomes.
 
@@ -47,7 +47,7 @@ Complete the following take-home task and share it with your mentor in advance.
 
 ## Task 3: Mock design interview
 
-**Objective:** A mock design interview is a simulation of a job interview used for training purposes. The exercise resembles a real interview as closely as possible to help you understand what is expected in a real job interview and helps you to improve your presentation: practice answering questions, presenting your portfolio, tackling design challenges, and receiving feedback on their performance. The mockup design interviews will last approximately 45-50 minutes and right after the interview, you will have 10 minutes to receive feedback on your performance and suggestions to improve further.
+**Objective:** A mock design interview is a simulation of a job interview used for training purposes. The exercise resembles a real interview as closely as possible to help you understand what is expected in a real job interview and helps you to improve your presentation: practice answering questions, presenting your portfolio, tackling design challenges, and receiving feedback on their performance. The mockup design interview will last approximately 30 minutes and right after the interview, you will have 15 minutes to receive feedback on your performance and suggestions to improve further.
 
 **Goals:**
 - Check the mock interview job profile
