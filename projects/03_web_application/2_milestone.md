@@ -31,8 +31,7 @@ Now, it is time to prototype! Use your Style Guide and Mood Board to set up a hi
 
 - Create a high-fidelity navigable [prototype](https://redi-school-1.gitbook.io/ux-ui-bootcamp/2.-project-mobile-application/milestone-3-prototyping-testing-and-refining/prototyping/type-of-prototypes) with basic interactions (change screen, back, etc.). You choose the Layout. You can either create a Prototype for Mobile or for Web. If you create a prototype for mobile, we ask you to create one single screen for web. If you create a prototype for web, we ask you to create one single screen for mobile.
 - It must include a web version and a mobile version.
-- Use a [Component library (UI Kit)](https://redi-school-1.gitbook.io/ux-ui-bootcamp/3.-project-dashboard/milestone-2-design-and-prototyping/component-library-and-ui-kits) built under [Atomic Design principles](https://medium.com/galaxy-ux-studio/principles-of-atomic-design-7b03a30c3cb6).
-
+- **OTPIONAL:** Use a [Component library (UI Kit)](https://redi-school-1.gitbook.io/ux-ui-bootcamp/3.-project-dashboard/milestone-2-design-and-prototyping/component-library-and-ui-kits) built under [Atomic Design principles](https://medium.com/galaxy-ux-studio/principles-of-atomic-design-7b03a30c3cb6).
 
 **Deliverables:**
 
