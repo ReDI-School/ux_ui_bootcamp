@@ -25,4 +25,8 @@ If you want to delve into component systematization, explore Material Design and
 
 **Resources:**
 
-- [Design Systems and Libraries](https://redi-school-1.gitbook.io/ux-ui-bootcamp/3.-project-dashboard/bonus-milestone-design-systems-and-libraries)
+- [Material Design Styles](https://m3.material.io/styles)
+- [How to create a custom Material Design theme](https://medium.com/@anastasia.bizyayeva/how-to-create-a-custom-material-design-theme-and-use-it-in-figma-2dec90d5bc08)
+- [Customizaton of Material Design](https://m3.material.io/foundations/customization)
+
+  
