@@ -2,7 +2,7 @@
 
 ![UX/UI Bootcamp](https://github.com/ReDI-School/ux_ui_bootcamp/assets/51905839/5c9aeb71-327f-4632-b2d1-27975c66e1bd)
 
-> Here, you can find an overview of the ReDI Full Stack bootcamp projects. The repo contains four projects, which are at the core of this bootcamp. 
+> IMPORTANT: These resources are deprecated and presented here for reference only. there may be broken liks, or information that doesn't match your semester. Your source of truth for class material is the class google drive.
 
 - Are you a new volunteer? Take a look at our [Volunteer Guide](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/volunteers/README.md) for some practical tips on how to get started!
 - Are you a new student? Be sure to get started with our [Welcome Guide](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/welcome.md) to see how to prepare for your first session and beyond!
@@ -18,8 +18,6 @@ ReDI's UX/UI Bootcamp curriculum consists of 4 projects spread over 18 weeks. In
 ![User Research](https://github.com/ReDI-School/ux_ui_bootcamp/assets/51905839/2612dd85-daef-47a7-94ed-0beb9f50f8cd)
 ![Mobile Application](https://github.com/ReDI-School/ux_ui_bootcamp/assets/51905839/0df52dff-aa6e-4335-b60f-23bef0d72e90)
 ![Web Application](https://github.com/ReDI-School/ux_ui_bootcamp/assets/51905839/9bd5f1ff-b917-41f1-aed8-16fb776f97bd)
-![Career](https://github.com/ReDI-School/ux_ui_bootcamp/assets/51905839/68be9dfa-acd1-4820-aefc-6f1b5ed82abf)
-
 
 ## Learning goals
 If you follow the program, you'll learn the following skills:
@@ -77,24 +75,6 @@ By the end of this module, you should have a familiarity with and a basic unders
 - `Usability Testing`
 
 **Link to Project: [03_web_application](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/03_web_application/README.md)**
-
-
-## 4. Project: Career Preparation
-![Career](https://github.com/ReDI-School/ux_ui_bootcamp/assets/51905839/68be9dfa-acd1-4820-aefc-6f1b5ed82abf)
-
-In the final project, you create a powerful LinkedIn profile, CV, and portfolio, work on a case study, and learn how to apply for your first job.
-
-**Learning Goals:**
-By the end of this module, you should have a familiarity with and a basic understanding of the following:
-- `LinkedIn`: Create and optimize a LinkedIn profile based on industry feedback.
-- `CV`: Update and refine your CV with professional feedback.
-- `Professional Identity`: Sharpen and articulate a clear professional identity.
-- `Case Study`: Complete and review a case study to showcase technical skills.
-- `Application Process`: Understand and navigate the job application process.
-- `Mock Interview`: Participate in a mock interview to receive feedback and improve performance.
-
-**Link to Project: [04_career](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/04_career/README.md)**
-
 
 ## Graduation! What's next?
 The final stage is graduation! If you fulfill all requirements (you find them here: TBD), you will receive your certificate. Now, it is time to apply for internships, further improve your skillset, and prepare for the job market. ReDI will assist you in this phase as well, but the responsibility is still on you. Check out our Talent Success Offers (LINK) for further support. 

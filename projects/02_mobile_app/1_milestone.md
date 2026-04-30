@@ -1,148 +1,49 @@
-# 1. Milestone - Develop an Empathy Map, a Task Analysis and User Flows
+# 1. Milestone - Information Architecture and Mid-Wireframes
 
-### What you will do:
+### What you do:
 
-You will analyse the answer of the user interviews and extract meaningful insights related to behaviours, attitudes, needs, goals, and frustrations. You will then Identify and highlight key phrases or sentences that indicate user motivations, preferences, and challenges You will then create an Empathy Map and fill out a Task Analysis template created to give them a facilitation. Ultimately you will propose task analysis steps and you will create a user flow.
+You will then analyze competitors like Headspace, Calm, and Insight Timer to understand industry standards. Using tools such as pencil and paper, FigJam, Figma, or Miro, you will create a Site Map by conducting a content audit, grouping related content, arranging these groups hierarchically, and mapping out links between sections. Optionally, you can conduct a card sorting exercise using a tool like Optimal Workshop to gather user insights. For wireframes, you will sketch key screens on paper, annotate these sketches with design decisions, and then create mid-fidelity wireframes in Figma. The screens will include the splash screen, onboarding screens, sign-up/login page, profile area, and user flow reflecting a key user goal. Finally, you will share your wireframes for feedback and make necessary adjustments.
 
 ### You will learn more about:
 
-You will continue to develop analytical skills and critical thinking by internalizing the fundamental principle of user experience design: that UX Design decisions are rooted in research with the user as the focal point. You will learn to extract and synthesize valuable user insights from interview data, developing a keen eye for identifying and categorizing user behaviors, attitudes, needs, goals, and frustrations. Additionally, you will acquire proficiency in creating empathy maps to visualize and deepen your understanding of user experiences. Furthermore, you will become familiar with the principles of task analysis, utilizing it to comprehend user flows and goals, while also gaining an understanding of user flows themselves, essential components in crafting seamless user experiences.
+Through this process, you will learn the importance of Information Architecture in enhancing user experience and the different types of IA structures such as hierarchical, sequential, and flat structures. You will gain practical skills in conducting organising information, and creating Site Maps. Additionally, you will understand the differences between low-fidelity, mid-fidelity, and high-fidelity wireframes, and how to focus on user experience elements like navigation, content organisation, and interaction flow. By using Figma to create wireframes, you will develop practical design skills, and by conducting card sorting (optional), you will gain insights into user preferences to create more intuitive designs.
 
 ### Tips:
 
-- Keep your notes and highlights well-organised to easily reference key insights when creating the empathy map and task analysis.
-- Consider user context, challenges, and goals to ensure your analysis accurately reflects their experiences.
-- Don’t hesitate to revisit and refine your empathy map and task analysis as you gain more insights. Iteration helps in developing a more accurate and comprehensive understanding of the users.
+- Ensure you have gained the elements of Information Architecture (IA) and the importance of clear navigation in digital products. Understanding these concepts will provide a strong framework for your work.
+- When creating a site map, focus on clarity and logical organization.
 - UX Designers do not work alone. If possible, collaborate with peers to get feedback on your work. Different perspectives can help identify gaps or new insights.
 
 ### Deliverables:
 
-1. Empathy Map
-2. Task Analysis & User Flows _(including Splash Screen, Onboarding, Sign-up/Login, Exploration (specific task of your choice based on data analysis))_
+- Site Map in Figjam 
+- Mid-Fidelity Wireframes
 
+### Task 1 - Site Map
 
-### Task 1 - Empathy Map
+Instructions:
+1. Take inspiration from your competitors (Headspace, Calm, and Insight Timer) to understand how they have organised the navigation of your mobile application.
+3. Copy [a figjam template](https://www.figma.com/community/file/1277011523626912658) or create a new one and create a sitemap for your app.
+Start with the main page, from there strace the different branches as seen in the examples. Remember to keep the work accessible, so share the link with your teacher.
 
-1. Go through the interview answers and extract informations that reflect:
-  - **Behaviours and Attitudes:** Pay attention to behaviours and attitudes that align with your research objectives.
-  - **Needs or Goals:** Identify any needs or goals your participants express. For instance, a user might say,
-  - **Frustrations:** Document any frustrations participants voice. These frustrations can help you refine your project and improve user satisfaction.
+### Task 2 - Wireframes
 
-To document your findings you can highlight the important parts as you did in the Projcet 1 for Thematic Analysis or copy/paste on another document what you consider meaningful to determine the needs and goals or eventual paint points to leverage.
+Instructions:
 
-2. Sort out your data by answering the 7 questions of the Empathy Map canvas.
-Feel free to copy and use [this Figjam template](https://www.figma.com/board/6etvslmZBTNliOkoIPNYTc/Empathy-Map---Example---MAKE-A-COPY?node-id=0-1&node-type=canvas&t=5j8vSSqV5eEyDzd6-0). You can also just write the questions on paper/google sheet or recreate the canvas template in Miro or Figma.
+1. Based on the requirements of the founder Thomas, you will have to create these deliverables:
+   - A Wireframe that represent the splash screen
+   - A series of wireframes that represent the onboarding. No more than 3 screens.
+   - A wireframe that represent the sign-up/login page and one that represent the profile area
+   - A series of wireframes that represent the user flow that reflect the goal you user needs to achieve.
+   - This point was the one leaving you with the greatest flexibility, meaning that you could choose one of different goals emerged from the research analysis, or even more than one goal.
+   - For example you could choose a user flow that depicts the steps log in, select a type of meditation, select a specific subtype of meditation, select a meditation file and launch it, and this could be achieved for example in 5 wireframes.
+   - Bear in mind that these wireframes must reflect the user flow you have designed in the previous task, otherwise you will have to go back and change it.
+2. While sketching on paper all these wireframes as it will be faster erase and restart, take some notes that explain why you are changing the design. 
+3. Once you are satisfied with your sketches, move to Figma and turn them into mid-fidelity wireframes and write notes explaining the functionality and the elements on screen. 
 
-Keep in mind that this is an exercise with dummy content for you to practise, so if your data analysis does not allow you to answer all the questions, it’s totally fine.
+### Resources:
 
-3. At the end of this deliverable, you should have clear what are the behaviour/attitudes, needs or goals and frustrations or paint points but, you may also be able to uncover emotions.
-
-**Resources:** [Empathy Map in Gitbook](https://redi-school-1.gitbook.io/ux-ui-bootcamp/empathy-map)
-
-### Task 2 - Fill out the Task Analysis Template and create the User Flows
-
-**1. Go through the below template, it’s a sort of Task Analysis synthesis, and fill it up, the data can all be retrieved from the [dummy user interviews answers](https://github.com/ReDI-School/ux_ui_bootcamp/blob/main/projects/02_mobile_app/interviews.md):**
-
-Task Analysis Synthesis Template\
-Initial Interest and Motivation\
-Trigger Event\
-1…\
-2…\
-3…\
-Goals\
-1…\
-2…\
-3…\
-
-Incorporation into Daily Routine\
-Daily Routine Integration\
-1…\
-2…\
-3…
-Goals\
-1…\
-2…\
-
-
-Exploration of Meditation Apps\
-Apps Tried\
-1…\
-2…\
-3…\
-4…\
-Features Evaluated\
-1…\
-2…\
-3…\
-4…\
-
-
-Engagement with Guided Meditation Content\
-Preferred Format\
-1…\
-2…\
-Goals\
-1…\
-2…\
-3…\
-
-
-Experience and Challenges with Regular Meditation\
-Positive Outcomes\
-1…\
-2…\
-3…\
-Challenges\
-1…\
-2…\
-3…\
-
-Now, even if we didn’t conduct a “Task Analysis” and the only research method of it we had, were these interviews that Thomas our beloved founder gave to you, we can do a bit of reverse engineering and try to propose the task analysis steps that would have emerged through a complete “Task Analysis”.
-
-In the following template, you already have the main name of some of the tasks individuated through the interviews, try to fill up the template, you have the data, are all available in the user interview answers
-
-**2. Template - Proposed Task Analysis Steps**
-
-Task 1: Starting a Meditation Practice\
-Step 1…\
-Step 2..\
-Step 3..\
-
-Task 2: Incorporating Meditation into Daily Routine\
-Step 1…\
-Step 2…\
-Step 3…\
-
-Task 3: Using Meditation Apps\
-Step 1…\
-Step 2…\
-Step 3…\
-
-Task 4: Engaging with Guided Meditation\
-Step 1…\
-Step 2…\
-Step 3…\
-
-Task 5: Maintaining a Regular Meditation Practice\
-Step 1…\
-Step 2…\
-Step 3…\
-
-Bear in mind that both templates are just templates, you may be able to spot something extra, go for it, in case your teacher will evaluate it.
-
-Based on the information that you have extracted so far, you should have a better view of who these people are, and why they use a meditation app.
-
-**3. Create the User Flow**
-
-We are now in the “Effortless Navigation” requirement and it’s time to create the “User Flow”. The minimum amount of User Flows should be: Onboarding, sign up (different ways of signups/forgot the password and whatever they think is relevant), maybe a small flow from the home screen to the profile area with changing one of the data/configuration, and the specific task of their choice (a specific task of your choice based on data analysis): "A way to navigate in an effortless manner through app’s features and content.”
-
-Suggestions:
-- Take a look at the app meditations of the competitors that the users interviewed mentioned, navigate them and see how your user flow is organised.
-- As an entry point for your “User Flow” you can use the splash screen, or skip it and use the sign up/login as entry point.
-- What comes after the entry point, is the path that the user needs to take in order to achieve its goal, the task that he has to perform which is made of several steps. It can be a straight happy path or a more elaborate path if, for example, you want to include more than one goal (registration, changing meditation, adding meditation and so on.
-If you opt for a “User Flow” that displays different paths and so different tasks, remember that when you will have to create the wireframes out of it, specifically for the prototyping stage, you may open to break it down so as to have separate tasks.
-- To create your “User Flows” you can choose between Figma, FigmaJam or Miro or well, even paper and pencil if you have no other means.
-
-**Resources:** 
-
-- [Task Analysis and User Flows in Gitbook](https://redi-school-1.gitbook.io/ux-ui-bootcamp/task-analysis-and-user-flows)
+- [Gitbook Site Map](https://redi-school-1.gitbook.io/ux-ui-bootcamp/site-map)
+- [Gitbook Mobile Navigation Patterns](https://redi-school-1.gitbook.io/ux-ui-bootcamp/mobile-navigation-patterns)
+- [Mobile Design Patterns](https://redi-school-1.gitbook.io/ux-ui-bootcamp/mobile-design-patterns)
+- [Wireframes](https://redi-school-1.gitbook.io/ux-ui-bootcamp/wireframes)
